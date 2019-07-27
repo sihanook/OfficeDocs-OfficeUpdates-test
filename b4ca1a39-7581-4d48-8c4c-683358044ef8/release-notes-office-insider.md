@@ -22,6 +22,58 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+
+## **July 26, 2019**<br/>
+Version 1908 (Build 11916.20000)<br/>
+
+### Excel: Feature updates
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.
+
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.
+
+
+### PowerPoint: Feature updates
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.
+
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.
+
+
+### Word: Feature updates
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.
+
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.
+
+
+
+
+## Non-security updates:
+
+### Excel
+
+- <div><span>We fixed an issue where moving a chart could sometimes result in a crash</span></div>
+
+
+- <div><span>We fixed an issue where <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">to get Workbook object from Chart object after changing <font color="#ba0010">c</font></span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">hart types</span> could sometimes result in an error</span></div>
+
+
+### Office Suite
+
+- <div>We fixed an issue where file type association and icons for Office could sometimes break after an Office Update</div>
+
+
+### Outlook
+
+- <div><span>We fixed an issue where in simplified ribbon, a disabled control could sometimes not be greyed out in the ribbon</span></div>
+
+
+
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
