@@ -56,6 +56,26 @@ For information about features, security updates, and non-security updates that 
 |Version 1808 (Build 10730.20348) <br/> |June 11, 2019 <br/> |307<br/> |
 
 
+### Semi-Annual Channel
+
+<i>The expected release is Version 1902 (Build 11328.20388).</i>
+
+|**Release upgrading from**|**Release date**|**Approximate download size (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20368) <br/> |July 9, 2019 <br/> |61<br/> |
+|Version 1808 (Build 10730.20348) <br/> |June 11, 2019 <br/> |307<br/> |
+
+
+### Semi-Annual (Targeted) Channel
+
+<i>The expected release is Version 1902 (Build 11328.20388).</i>
+
+|**Release upgrading from**|**Release date**|**Approximate download size (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20368) <br/> |July 9, 2019 <br/> |61<br/> |
+|Version 1902 (Build 11328.20318) <br/> |June 11, 2019 <br/> |73<br/> |
+
+
 ### Semi-Annual (Targeted) Channel
 
 <i>The expected release is Version 1902 (Build 11328.20388).</i>
