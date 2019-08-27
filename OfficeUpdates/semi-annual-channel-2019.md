@@ -24,6 +24,21 @@ These release notes provide information about new features, security updates, an
 > [!NOTE]
 > - The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md).
 
+## Version 1808: August 27
+*Version 1808 (Build 10730.20370)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+## Non-security updates
+### Outlook
+
+- <div>Addressed temporary service issue that caused users to see the error&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">&quot;Cannot find this file. Verify the path and file name are correct&quot; when using cloud attachments. Learn More [<a href="https://support.office.com/en-us/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a">https://support.office.com/en-us/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a</a>]</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1808: January 8
 *Version 1808 (Build 10730.20264)*
 
