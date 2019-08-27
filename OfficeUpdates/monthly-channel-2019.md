@@ -24,6 +24,24 @@ These release notes provide information about new features, security updates, an
  > [!NOTE]
 > - The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md). 
 
+## Version 1908: August 27
+*Version 1908 (Build 11929.20254)*
+* Various bugs and performance fixes.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Unknown ****** Please Review ******
+
+- **New Office app icons:** Redesigned app icons to reflect the simple, powerful, and intelligent experiences of Office
+
+### PowerPoint: Feature updates
+
+- **Save an illustration as SVG:** Save a chart, shape, or other illustration as a scalable vector graphic, which can be resized with no loss of image quality. [Learn more](https://support.office.com/en-us/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
 ## Version 1901: January 31
 *Version 1901 (Build 11231.20130)* 
 
