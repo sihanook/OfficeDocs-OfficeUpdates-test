@@ -32,6 +32,22 @@ For information about features, security updates, and non-security updates that 
 
 [//]: # (DO NOT REMOVE)
 
+## September 12, 2019
+
+[//]: # (DO NOT REMOVE CONTENT STARTSeptember 12, 2019)
+
+### Monthly Channel
+
+The most current release is Version 1908 (Build 11929.20300).
+
+|**Release upgrading from**|**Release date**|**Approximate download size (in MB)**|
+|:-----|:-----|:-----|
+|Version 1908 (Build 11929.20254) <br/> |August 26, 2019 <br/> |57<br/> |
+|Version 1907 (Build 11901.20218) <br/> |August 13, 2019 <br/> |172<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDSeptember 12, 2019)
+
 ## April 29, 2019
 
 [//]: # (DO NOT REMOVE CONTENT STARTApril 29, 2019)
