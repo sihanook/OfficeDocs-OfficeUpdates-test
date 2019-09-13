@@ -32,6 +32,22 @@ For information about features, security updates, and non-security updates that 
 
 [//]: # (DO NOT REMOVE)
 
+## September 13, 2019
+
+[//]: # (DO NOT REMOVE CONTENT STARTSeptember 13, 2019)
+
+### Semi-Annual (Targeted) Channel
+
+The most current release is Version 1908 (Build 11929.20300).
+
+|**Release upgrading from**|**Release date**|**Approximate download size (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20392) <br/> |August 13, 2019 <br/> |341<br/> |
+|Version 1902 (Build 11328.20368) <br/> |July 9, 2019 <br/> |341<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDSeptember 13, 2019)
+
 ## April 29, 2019
 
 [//]: # (DO NOT REMOVE CONTENT STARTApril 29, 2019)
