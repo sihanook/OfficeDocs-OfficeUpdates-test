@@ -23,6 +23,57 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 1910: September 27
+*Version 1910 (Build 12119.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Outlook
+
+- **.:** .
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Non-security updates
+### Excel
+
+- <div><span>We fixed an issue which could have caused scatter line charts from rendering properly when changing the series collection</span></div>
+
+
+### Outlook
+
+- <div><span>We fixed an issue which could have reported permission errors when interacting with shared calendar folders</span></div>
+
+
+- <div><span>We fixed an issue which could have prevented users from adding attachments to calendars</span></div>
+
+
+- <div><span>We fixed an issue which caused error messages to display when replying to a digitally signed message</span></div>
+
+
+### Word
+
+- <div><span>We fixed an issue which could have caused scaling issues when printing to Deskjet printers</span></div>
+
+
+### Office Suite
+
+- <div><span>We fixed an issue where medium bold text could be incorrectly styled</span></div>
+
+
+- <div><span>We fixed an issue where a user could be given an incorrect error message when closing a file with a pending upload</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
