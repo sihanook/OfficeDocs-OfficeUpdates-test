@@ -22,6 +22,141 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 1910: October 02
+*Version 1910 (Build 12013.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Unknown ****** Please Review ******
+
+- **New Office app icons:** Redesigned app icons to reflect the simple, powerful, and intelligent experiences of Office
+
+### Excel
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save. [Learn more](https://support.office.com/en-us/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.
+
+- **Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.
+
+- **Ready, set, draw:** When you grab your Surface Pen, you're ready to draw. [Learn more](https://support.office.com/en-us/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **Code quickly with Power Query enhancements:** Get to code completion quickly with auto-complete and syntax coloring. Easily discover functions, columns, and parameters, too.
+
+- **Join tables on similar columns:** Get & Transform (Power Query) now features approximate text matching logic (also called fuzzy matching) when comparing columns for merging tables. [Learn more](https://support.office.com/en-us/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+
+- **Collaboration just got easier:** Co-authoring improvements mean that when working with conditional formatting, cell styles, and more, your changes are merged seamlessly with those of your collaborators.
+
+- **Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want. And when you're selecting, the Insert button tells you how many you've picked. [Learn more](https://support.office.com/en-us/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### Outlook
+
+- **Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.
+
+- **Advanced protection against attack:** With Office 365 Advanced Threat Protection, you're protected against attacks through hyperlinks within email subjects, attached messages, signed messages, network paths, and so on.
+
+- **Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want. And when you're selecting, the Insert button tells you how many you've picked. [Learn more](https://support.office.com/en-us/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### PowerPoint
+
+- **Print slide numbers on handouts:** Slide numbers are included on your handouts automatically. Leave them on, turn them off, it's all up to you. [Learn more](https://support.office.com/en-us/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.
+
+- **Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.
+
+- **Save an illustration as SVG:** Save a chart, shape, or other illustration as a scalable vector graphic, which can be resized with no loss of image quality. [Learn more](https://support.office.com/en-us/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Ready, set, draw:** When you grab your Surface Pen, you're ready to draw. [Learn more](https://support.office.com/en-us/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want. And when you're selecting, the Insert button tells you how many you've picked. [Learn more](https://support.office.com/en-us/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### Visio
+
+- **Export Visio visuals from Power BI:** Visio Visual for Power BI will now display properly when you export Power BI reports as PDFs, PowerPoint files, and more. [Learn more](https://support.office.com/en-us/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+### Word
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save. [Learn more](https://support.office.com/en-us/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.
+
+- **Say it another way:** When you want to say it differently, Rewrite is there to help. Rewrite offers alternatives for finessing your phrases.
+
+- **Apply sensitivity labels to your documents:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.
+
+- **Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.
+
+- **Ready, set, draw:** When you grab your Surface Pen, you're ready to draw. [Learn more](https://support.office.com/en-us/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want. And when you're selecting, the Insert button tells you how many you've picked. [Learn more](https://support.office.com/en-us/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### Office Suite
+
+- **Privacy controls:** New, updated, and improved controls for diagnostic data and connected experiences. Learn more <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json>
+
+- **Office icons have a new look:** The Office icons have been redesigned to reflect simple, powerful, and intelligent Office experiences.
+
+- **Office icons have a new look:** The Office icons have been redesigned to reflect simple, powerful, and intelligent Office experiences.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Non-security updates
+### Excel
+
+- <div><span>We fixed an issue which could cause AutoSave to become enabled</span></div>
+
+
+- <div>We fixed an issue which could result in cell heights being measured inaccurately</div>
+
+
+### Outlook
+
+- <div><span>We fixed an issue which prevented the Post Reply to Folder shortcut from working</span></div>
+
+
+### PowerPoint
+
+- <div><span>We fixed an issue which could prevent tasks in comment panes from displaying properly</span></div>
+
+
+- <div><span>We fixed an issue which could cause a crash when inserting new slides</span></div>
+
+
+### Word
+
+- <div><span>We fixed an issue which could sometimes cause a crash when deleting @ mentions</span></div>
+
+
+- <div><span>We fixed an issue which prevented emojis from displaying correctly in comment cards</span></div>
+
+
+- <div><span>We fixed an issue which could prevent an @ mention if the @ symbol was placed after certain characters</span></div>
+
+
+- <div><span>We fixed an issue where hyperlinks could be broken if the hyperlink contained certain characters</span></div>
+
+
+### Office Suite
+
+- <div><span>We fixed an issue which significantly improves the performance of the Comments feature</span></div>
+
+
+- <div><span>We fixed an issue which could cause a crash when using arrow keys while in search</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
