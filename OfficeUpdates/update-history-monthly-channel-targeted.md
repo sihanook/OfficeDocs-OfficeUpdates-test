@@ -28,6 +28,9 @@ To find release notes, see [What's new for Office Insiders](https://support.offi
 
 [//]: # (DO NOT REMOVE)
 
+**October 04, 2019**<br/>
+Version 1909 (Build 12026.20264)<br/>
+
 **March 29, 2019**<br/> 
 Version 1903 (Build 11425.20202)<br/>
 
