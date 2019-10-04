@@ -24,6 +24,39 @@ These release notes provide information about new features, security updates, an
 > [!NOTE]
 > - The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md).
 
+## Version 1902: October 04
+*Version 1902 (Build 11328.20420)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Non-security updates
+### Excel
+
+- <div>Resolved an issue that prevented Hyperlinks from being pasted in some protected sheets.</div>
+
+
+### WinProj
+
+- <div>Consider the following scenario:</div><ul><li>You open a project.</li><li>You click the File menu, click Export and click the<b> Create PDF/XPS</b> button.</li><li>Within the Browse dialog box, you enter a file name and click OK.</li></ul><div>In this situation, you find that the PDF of XPS file is not created.</div>
+
+
+### Word
+
+- <div><span>We fix an issue where&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">JAWS on Windows 19H1 builds won't announce words when using Caps + Right arrow.</span></span></div>
+
+
+### Office Suite
+
+- <div>For Office files synced by the OneDrive Sync Engine, document metadata such as Require Properties and Content Type requirements are no longer validated upon Save and Save As. This results in two improvements: First, users can now move documents between SharePoint libraries without having to define document metadata where the destination library does not require it, which more closely follows the behavior of Office files synced by OneDrive. And second, a Save As operation to the local OneDrive folder can now be done without any network roundtrips resulting in a significant performance improvement in the Office apps.</div>
+
+
+- <div>Fixed an issue where &quot;Fix my account&quot; notification does not disappear after signing-in successfully.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1902: August 27
 *Version 1902 (Build 11328.20392)*
 
