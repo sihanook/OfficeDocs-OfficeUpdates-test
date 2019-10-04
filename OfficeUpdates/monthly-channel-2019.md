@@ -24,6 +24,87 @@ These release notes provide information about new features, security updates, an
  > [!NOTE]
 > - The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md). 
 
+## Version 1909: October 04
+*Version 1909 (Build 12026.20264)*
+* Various bugs and performance fixes.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Unknown ****** Please Review ******
+
+- **Install Microsoft Teams on existing installations of Office 365 ProPlus:** Beginning in late June, Microsoft Teams will be included in existing installations of Office 365 ProPlus (and Office 365 Business) upon updates of these installations. The date when Teams will be added depends on which update channel you're using. Please refer to Deploy Microsoft Teams with Office 365 ProPlus for additional information. Learn More link: https://docs.microsoft.com/en-us/deployoffice/teams-install
+
+### Excel
+
+- **Data visualizer add-in:** Quickly create Visio flowcharts from Excel. [Learn more](https://support.office.com/en-us/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### Visio
+
+- **Visio Data Visualizer Excel Add-in:** Quickly and easily visualize your data into polished Visio diagrams within Excel. [Learn more](https://support.office.com/en-us/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### Word
+
+- **Fixed a document corruption issue caused by merge of 3D objects.:** Fixed a document corruption issue caused by merge of 3D objects.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Non-security updates
+### Excel
+
+- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">Resolved an issue that prevented Hyperlinks from being pasted in some protected sheets.</span><br></div>
+
+
+- <div>Enabled more than 16 add-ins to show&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">when browsing in the add-in manager.</span></div>
+
+
+### Insights Services
+
+- <div>Fix issue in Excel Ideas feature, error when loading the add-in by clicking the Ideas button in Win32 client.&nbsp;</div>
+
+
+### Outlook
+
+- <div>Addresses an issue that caused the simple-hover URLs to fail to display for some safelinks.</div>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">This updates the attachment blocking logic in Outlook to also block python attachments.</span>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Addresses an issue that caused users to observe a memory leak in the Outlook process.</span>
+
+
+- <div><span><div style="box-sizing:border-box;"><span style="box-sizing:border-box;">We fixed an issue which could have prevented files from being saved to a WebDAV location</span><br></div></span></div>
+
+
+### RDX
+
+- <div><strong><span style="font-size:12.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#171717;background:white;">SHA-1 deprecation:</span></strong><span style="font-size:12.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#171717;background:white;">&nbsp;To
+protect Office customer’s security, Microsoft Office updates are now signed
+using the SHA-2 algorithm exclusively.</span><br></div>
+
+
+### Office Suite
+
+- <div>Fixed issue that could cause data loss in sessions that involved both coauthoring and offline editing in PowerPoint.</div>
+
+
+- <div><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;">This is a fix for a crash that users could hit on opening a
+file.&nbsp;&nbsp;</p></div>
+
+
+- <div>Improved reliability when downloading Office updates by resuming downloads which may have been previously interrupted.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1908: August 27
 *Version 1908 (Build 11929.20254)*
 * Various bugs and performance fixes.
