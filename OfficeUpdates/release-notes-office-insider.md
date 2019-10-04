@@ -23,6 +23,87 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 1910: October 04
+*Version 1910 (Build 12126.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Excel
+
+- **Data visualizer add-in:** Quickly create Visio flowcharts from Excel. [Learn more](https://support.office.com/en-us/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### Outlook
+
+- **.:** .
+
+### Visio
+
+- **Visio Data Visualizer Excel Add-in:** Quickly and easily visualize your data into polished Visio diagrams within Excel. [Learn more](https://support.office.com/en-us/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Non-security updates
+### Excel
+
+- <div><span>We fixed an issue where the print area in print preview was not correct</span></div>
+
+
+- <div><span>We fixed an issue which could have prevented pivot tables from being refreshed during a co-authoring session</span></div>
+
+
+### OPX
+
+- <div>We fixed an issue where users could receive an &quot;inconsistent state&quot; error when using a shared database.</div>
+
+
+### Outlook
+
+- <div><span>We fixed an issue which could sometimes result in a crash when a user receives a 'Missed Conversation' message from Skype</span></div>
+
+
+- <div><span>We fixed an issue which could have caused duplication of mail folders</span></div>
+
+
+- <div><span>We fixed an issue which could have caused an incorrect error message when attempting to send s/MIME encrypted e-mail</span></div>
+
+
+- <div><span>We fixed an issue which could have resulted in a memory leak</span></div>
+
+
+- <div><span>We fixed an issue which could have caused the senders name to change when saved as a draft</span></div>
+
+
+### PowerPoint
+
+- <div><span></span></div>We fixed an issue which could cause TextRanges to become broken after pasting text into the header/footer/slide number placeholders on slide master and slide layout
+
+
+- <div><span></span></div>We fixed an issue which prevented hyperlink from being created when pasting text with hyperlink
+
+
+- <div>We fixed an issue which would prevent statistics from working correctly</div>
+
+
+### Word
+
+- <div><span>We fixed an issue where font colors were not being committed</span></div>
+
+
+### Office Suite
+
+- <div>We fixed an issue which could offer version history when that feature was disabled</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1910: September 27
 *Version 1910 (Build 12119.20000)*
 
