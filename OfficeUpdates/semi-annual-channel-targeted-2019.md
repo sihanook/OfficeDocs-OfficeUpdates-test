@@ -25,58 +25,6 @@ These release notes provide information about new features, security updates, an
 > - The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md).
 
 
-## Version 1908: October 07
-*Version 1908 (Build 11929.20300)*
-
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
-
-### Non-security updates
-### Excel
-
-- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">Resolved an issue that prevented Hyperlinks from being pasted in some protected sheets.</span><br></div>
-
-
-- <div>Enabled more than 16 add-ins to show&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">when browsing in the add-in manager.</span></div>
-
-
-### Insights Services
-
-- <div>Fix issue in Excel Ideas feature, error when loading the add-in by clicking the Ideas button in Win32 client.&nbsp;</div>
-
-
-### Outlook
-
-- <div>Addresses an issue that caused the simple-hover URLs to fail to display for some safelinks.</div>
-
-
-- <span style="background-color:rgb(255, 255, 255);display:inline !important;">This updates the attachment blocking logic in Outlook to also block python attachments.</span>
-
-
-- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Addresses an issue that caused users to observe a memory leak in the Outlook process.</span>
-
-
-### RDX
-
-- <div><span style="font-size:12.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#171717;background:white;">To
-protect Office customer’s security, Microsoft Office updates are now signed
-using the SHA-2 algorithm exclusively.</span><br></div>
-
-
-### Office Suite
-
-- <div>Fixed issue that could cause data loss in sessions that involved both coauthoring and offline editing in PowerPoint.</div>
-
-
-- <div><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;">This is a fix for a crash that users could hit on opening a
-file.&nbsp;&nbsp;</p></div>
-
-
-- <div>Improved reliability when downloading Office updates by resuming downloads which may have been previously interrupted.</div>
-
-
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## Version 1808: January 8
 *Version 1808 (Build 10730.20264)* 
