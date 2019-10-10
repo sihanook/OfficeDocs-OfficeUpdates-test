@@ -24,6 +24,10 @@ These release notes provide information about new features, security updates, an
  > [!NOTE]
 > - The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md). 
 
+## Version 1906: October 10
+*Version 1906 (Build 11727.20230)*
+* Various bugs and performance fixes.
+
 ## Version 1907: October 10
 *Version 1907 (Build 11901.20218)*
 * Various bugs and performance fixes.
