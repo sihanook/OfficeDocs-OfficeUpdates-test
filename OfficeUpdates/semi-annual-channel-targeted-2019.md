@@ -26,6 +26,26 @@ These release notes provide information about new features, security updates, an
 
 
 
+## Version 1902: October 10
+*Version 1902 (Build 11328.20392)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Non-security updates
+### Excel
+
+- <div>Resolved an issue with Find and Replace that change where the focus was in the dialog after finding the first item.</div>
+
+
+### Office Suite
+
+- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">In certain circumstances, Office shortcuts may disappear following an update.&nbsp;&nbsp;</span>This update improves reliability when publishing of Office shortcuts.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1908: October 07
 *Version 1908 (Build 11929.20300)*
 
