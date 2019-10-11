@@ -23,6 +23,69 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 1910: October 11
+*Version 1910 (Build 12130.20112)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Outlook
+
+- **.:** .
+
+- **NA:** NA
+
+- **Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content
+
+### Visio
+
+- **Visio Data Visualizer Excel Add-in:** Quickly and easily visualize your data into polished Visio diagrams within Excel. [Learn more](https://support.office.com/en-us/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Non-security updates
+### Excel
+
+- <div>Resolved an issue in inserting files as object from OneDrive</div>
+
+
+- <div>Resolved an issue where the hyperlink format could not be properly applied to some content</div>
+
+
+- <div>Resolved an issue where formulas containing structured absolute references may be adjusted incorrectly</div>
+
+
+- <div>Resolved an issue where workbooks created in earlier versions of Office could cause Excel to hang when opened in current versions of Office</div>
+
+
+- <div>Resolved an issue where content copied from Excel could appear incorrect when pasted into other Office applications</div>
+
+
+- <div>Fix to correct colors used in previews when inserting charts using chart templates</div>
+
+
+### PowerPoint
+
+- <div>Identified an issue where ARC Devices could lose connection when running under AirSpace WinComp</div>
+
+
+### Word
+
+- <div>Resolved an issue in inserting files as object from OneDrive</div>
+
+
+- <div>Improved our recovery steps to f<span>ix an issue that caused graphical content to get deleted from email threads.&nbsp;</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1910: October 04
 *Version 1910 (Build 12126.20000)*
 
