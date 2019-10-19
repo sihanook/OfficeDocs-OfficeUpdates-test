@@ -23,6 +23,106 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 1911: October 18
+*Version 1911 (Build 12209.20010)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Outlook
+
+- **.:** .
+
+- **NA:** NA
+
+- **Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content
+
+### PowerPoint
+
+- **Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.
+
+### Visio
+
+- **Visio Data Visualizer Excel Add-in:** Quickly and easily visualize your data into polished Visio diagrams within Excel. [Learn more](https://support.office.com/en-us/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### Office Suite
+
+- **The Upload Center is being replaced by the Files Needing Attention experience:** The Upload Center is being replaced by the Files Needing Attention experience that will show up inside the Office applications under File > Open. This new experience is more modern, integrated, and less intrusive compared to the Upload Center.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Non-security updates
+### Excel
+
+- <div><span>Resolved an issue where check box controls could shrink when using autofit to adjust row height</span></div>
+
+
+- <div><span>Resolved an issue where selecting a cell after scrolling could result in the wrong cell being selected</span></div>
+
+
+### OneNote
+
+- <div><span>Identified an issue which could affect syncing from a local resource to a cloud resource</span></div>
+
+
+### Outlook
+
+- <div><span>Identified an issue which could cause digital signatures to become broken when signing an e-mail with a digitally signed attachment</span></div>
+
+
+- <div><span>Identified an issue where long filenames were truncated after draging and droping to the message body</span></div>
+
+
+- <div>Identified an issue where the search box could disappear when the ribbon is set to hide automatically</div>
+
+
+### PowerPoint
+
+- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Identified an issue
+where aspect ratio for the slide preview was not being properly locked/unlocked</span>
+
+
+### Project
+
+- <div>Identified an issue where notes might not persist if entered while doing update tasks<br></div>
+
+
+- <div>Identified an issue where a file could be locked by a user, but no username would be displayed in the error message</div>
+
+
+- <div><span>Identified an issue where users could get several messages when opening a read-only project</span></div>
+
+
+### Security
+
+- <div><span>Identified an issue where a welcome message contained an invalid link</span></div>
+
+
+### Word
+
+- <div><span>Identified an issue when viewing comments while using a screen reader</span></div>
+
+
+- <div><span>Identified an issue where some critiques were misidentified as being spelling or grammar critiques</span></div>
+
+
+- <div><span>Identified an issue where a new comment dialog could sometimes not obtain focus</span></div>
+
+
+### Office Suite
+
+- <div><span>We fixed an issue where an upgrade could be prevented by a incorrect error message of &quot;Another install in progress&quot;</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1910: October 11
 *Version 1910 (Build 12130.20112)*
 
