@@ -23,6 +23,115 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 1911: October 23
+*Version 1911 (Build 12215.20006)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Excel
+
+- **See Your Pen Options When You Pick Up Your Surface Pen:** When you first pick up your Surface Pen in Word, Excel, or PowerPoint, the Draw tab will be activated to make selecting your pen colors easy.
+
+### Outlook
+
+- **.:** .
+
+- **NA:** NA
+
+### PowerPoint
+
+- **See Your Pen Options When You Pick Up Your Surface Pen:** When you first pick up your Surface Pen in Word, Excel, or PowerPoint, the Draw tab will be activated to make selecting your pen colors easy.
+
+### Visio
+
+- **Make polished Visio diagrams in Excel:** Quickly and easily visualize your data into polished Visio diagrams within Excel. [Learn more](https://support.office.com/en-us/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### Word
+
+- **See Your Pen Options When You Pick Up Your Surface Pen:** When you first pick up your Surface Pen in Word, Excel, or PowerPoint, the Draw tab will be activated to make selecting your pen colors easy.
+
+- **Coauthoring improvements:** Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Non-security updates
+### Access
+
+- <div><span>The record count could be incorrect</span></div>
+
+
+### Excel
+
+- <div><span>We significantly improved the performance of deleting columns with merged cells</span></div>
+
+
+- <div>U<span>sers could be prevented from saving in Office 365 Excel Workbook format</span></div>
+
+
+- <div><span>Checkboxes could not render correctly</span></div>
+
+
+- <div>C<span>hanges to a chart size could not be saved</span></div>
+
+
+- <div><span>Select Data Source dialogs were not case sensitive for some fields</span></div>
+
+
+- <div><span>Some VBA functions would return an error on new chart types</span></div>
+
+
+### PowerPoint
+
+- <div>C<span>hanges to a chart size could not be saved</span></div>
+
+
+### Publisher
+
+- <div><span>Shapes could appear outside of the graphics border</span></div>
+
+
+### Word
+
+- <div><span>Shapes could appear outside of the graphics border</span></div>
+
+
+- <div><span>Highlighting text could be challenging</span></div>
+
+
+- <div>A<span> user could be prevented from navigating to an individual item in the editor</span></div>
+
+
+- <div>G<span>rammar or spelling errors might not be highlighted</span></div>
+
+
+- <div>C<span>hanges to a chart size could not be saved</span></div>
+
+
+- <div>A<span> contact card could be prevented from opening after apply formatting to an @ mention</span></div>
+
+
+- <div><span><p style="margin:0in 0in 0pt;font-family:&quot;Calibri&quot;,sans-serif;font-size:11pt;"><span style="font-size:10.5pt;">Resolved
+an issue where users may be unable to save Word, Excel, and PowerPoint
+documents.&nbsp; This issue affects users that create a new file and bring up
+the &quot;Save as Model Dialog&quot; option after clicking on the Save icon or
+pressing Ctrl + S.</span><br></p></span></div>
+
+
+### Office Suite
+
+- <div><span>Performance issue when using Shapes on Windows 7</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1911: October 18
 *Version 1911 (Build 12209.20010)*
 
