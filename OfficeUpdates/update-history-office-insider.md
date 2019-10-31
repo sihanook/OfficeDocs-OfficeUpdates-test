@@ -31,6 +31,9 @@ To find release notes, see [Insider release notes for Office for Windows desktop
 
 [//]: # (DO NOT REMOVE)
 
+**October 31, 2019**<br/>
+Version 1911 (Build 12215.20006)<br/>
+
 **October 07, 2019**<br/>
 Version 1910 (Build 12126.20000)<br/>
 
