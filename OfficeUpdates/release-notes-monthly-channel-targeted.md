@@ -22,6 +22,259 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 1907: November 11
+*Version 1907 (Build 11808.20018)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Excel
+
+- **See Your Pen Options When You Pick Up Your Surface Pen:** When you first pick up your Surface Pen in Word, Excel, or PowerPoint, the Draw tab will be activated to make selecting your pen colors easy.
+
+- **Data visualizer add-in:** Quickly create Visio flowcharts from Excel. [Learn more](https://support.office.com/en-us/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### Outlook
+
+- **NA:** NA
+
+- **Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content
+
+### PowerPoint
+
+- **Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.
+
+- **See Your Pen Options When You Pick Up Your Surface Pen:** When you first pick up your Surface Pen in Word, Excel, or PowerPoint, the Draw tab will be activated to make selecting your pen colors easy.
+
+### User Lifecycle
+
+- **Experience improvements for AFO activation:** Updates to the screens customers see when activating Office that comes bundled with their new PC
+
+### Visio
+
+- **Make polished Visio diagrams in Excel:** Quickly and easily visualize your data into polished Visio diagrams within Excel. [Learn more](https://support.office.com/en-us/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### Word
+
+- **See Your Pen Options When You Pick Up Your Surface Pen:** When you first pick up your Surface Pen in Word, Excel, or PowerPoint, the Draw tab will be activated to make selecting your pen colors easy.
+
+- **Coauthoring improvements:** Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.
+
+### Office Suite
+
+- **The Upload Center is being replaced by the Files Needing Attention experience:** The Upload Center is being replaced by the Files Needing Attention experience that will show up inside the Office applications under File > Open. This new experience is more modern, integrated, and less intrusive compared to the Upload Center.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Non-security updates
+### Access
+
+- <div><span>The record count could be incorrect</span></div>
+
+
+### Excel
+
+- <div>Resolved an issue where deleting sheets containing sparklines referencing data on another sheet could cause the file to be identified as corrupted when re-opened.</div>
+
+
+- <div>C<span>hanges to a chart size could not be saved</span></div>
+
+
+- <div><span>Checkboxes could not render correctly</span></div>
+
+
+- <div><span>Select Data Source dialogs were not case sensitive for some fields</span></div>
+
+
+- <div><span>Some VBA functions would return an error on new chart types</span></div>
+
+
+- <div>U<span>sers could be prevented from saving in Office 365 Excel Workbook format</span></div>
+
+
+- <div><span>Resolved an issue where check box controls could shrink when using autofit to adjust row height</span></div>
+
+
+- <div><span>Using Narrator and Magnifier at the same time may result in a crash</span></div>
+
+
+- <div>Resolved an Issue where you may get incorrect results&nbsp;<span style="color:rgba(0, 0, 0, 0.9);display:inline !important;">when converting report filters along with the rest of the PivotTable for queries to SQL tabular servers.</span></div>
+
+
+- <div><span>Resolved an issue where Excel may crash when editing a protected file from an untrusted network share</span></div>
+
+
+- <div><span>Resolved an issue where selecting a cell after scrolling could result in the wrong cell being selected</span></div>
+
+
+- <div><span>We significantly improved the performance of deleting columns with merged cells</span></div>
+
+
+### excel.exe
+
+- <div><span>Using Narrator and Magnifier at the same time may result in a crash</span></div>
+
+
+### OneNote
+
+- <div><span>Identified an issue which could affect syncing from a local resource to a cloud resource</span></div>
+
+
+### Outlook
+
+- <div>A forwarded e-mail may be missing embedded images</div>
+
+
+- <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);font-size:13.33px;">Users may not be able to create Outlook profiles with strict tenant restriction</span>
+
+
+- <div><span>Room Finder tool may be displaying &quot;None&quot; for available rooms</span></div>
+
+
+- <div>Identified an issue where the search box could disappear when the ribbon is set to hide automatically</div>
+
+
+- <div><span>Identified an issue which could cause digital signatures to become broken when signing an e-mail with a digitally signed attachment</span></div>
+
+
+- <div><span>Identified an issue where long filenames were truncated after draging and droping to the message body</span></div>
+
+
+### powerpnt.exe
+
+- <div><span>Using Narrator and Magnifier at the same time may result in a crash</span></div>
+
+
+### PowerPoint
+
+- <div>C<span>hanges to a chart size could not be saved</span></div>
+
+
+- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Identified an issue
+where aspect ratio for the slide preview was not being properly locked/unlocked</span>
+
+
+### Project
+
+- <div>Identified an issue where notes might not persist if entered while doing update tasks<br></div>
+
+
+- <div><span>User is unable to mark a task as complete, and it gets set to 99%</span></div>
+
+
+- <div>Overallocations are not resolved by leveling</div>
+
+
+- <div><span>Identified an issue where users could get several messages when opening a read-only project</span></div>
+
+
+- <div>Identified an issue where a file could be locked by a user, but no username would be displayed in the error message</div>
+
+
+### Publisher
+
+- <div><span>Shapes could appear outside of the graphics border</span></div>
+
+
+### Security
+
+- <div><span>Identified an issue where a welcome message contained an invalid link</span></div>
+
+
+### winword.exe
+
+- <div><span>Using Narrator and Magnifier at the same time may result in a crash</span></div>
+
+
+### Word
+
+- <div><span>Shapes could appear outside of the graphics border</span></div>
+
+
+- <div><span>Proofing suggestins are not displaying in contextual menus</span></div>
+
+
+- <div>C<span>hanges to a chart size could not be saved</span></div>
+
+
+- <div><span>Identified an issue when viewing comments while using a screen reader</span></div>
+
+
+- <div><span>Identified an issue where some critiques were misidentified as being spelling or grammar critiques</span></div>
+
+
+- <div><span>Searching from the Navigation pane may fail</span></div>
+
+
+- <div><span>Using Narrator and Magnifier at the same time may result in a crash</span></div>
+
+
+- <div><span>Content policies are being incorrectly applied to comments</span></div>
+
+
+- <div><span>Legacy comments written with dark text is not visible in Dark Mode</span></div>
+
+
+- <div style="box-sizing:border-box;font-family:&quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, Helvetica, Arial, sans-serif;text-align:start;">The links of cid: images from Outlook messages&nbsp;can now be successfully broken when requested.</div>
+
+
+- <div>Lower policy labels may be applied when a higher policy label should have taken priority</div>
+
+
+- <div><font size=2><font style="background-color:rgba(255, 255, 255, 1);">Opening legacy<span style="display:inline !important;"> documents and then going to the Info tab can cause a crash</span></font></font><br></div>
+
+
+- <div><span>Incorrect characters may appear when using Korean/English autocorrect</span></div>
+
+
+- <div>A<span> contact card could be prevented from opening after apply formatting to an @ mention</span></div>
+
+
+- <div><span>Highlighting text could be challenging</span></div>
+
+
+- <div><span>Identified an issue where a new comment dialog could sometimes not obtain focus</span></div>
+
+
+- <div>A<span> user could be prevented from navigating to an individual item in the editor</span></div>
+
+
+- <div>G<span>rammar or spelling errors might not be highlighted</span></div>
+
+
+- <div><span><p style="margin:0in 0in 0pt;font-family:&quot;Calibri&quot;,sans-serif;font-size:11pt;"><span style="font-size:10.5pt;">Resolved
+an issue where users may be unable to save Word, Excel, and PowerPoint
+documents.&nbsp; This issue affects users that create a new file and bring up
+the &quot;Save as Model Dialog&quot; option after clicking on the Save icon or
+pressing Ctrl + S.</span><br></p></span></div>
+
+
+### Office Suite
+
+- <div>Some d<span>rawings may not display in preview or slide shows</span></div>
+
+
+- <div><span>We fixed an issue where an upgrade could be prevented by a incorrect error message of &quot;Another install in progress&quot;</span></div>
+
+
+- <div><span>Some katakana characters may display incorrectly in a vertical text box</span></div>
+
+
+- <div>Attempting to save a file to a disconnected network share may result in a crash</div>
+
+
+- <div><span>Performance issue when using Shapes on Windows 7</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1910: October 18
 *Version 1910 (Build 12130.20184)*
 
