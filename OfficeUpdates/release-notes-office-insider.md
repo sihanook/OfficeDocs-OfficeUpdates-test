@@ -23,6 +23,79 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 1912: November 15
+*Version 1912 (Build 12307.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Insights Services
+
+- **Natural Language Queries in Ideas in Excel:** Excel Ideas's new capability to ask a natural language question about your data
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <div><span>Text to Column functionality may fail for some localizations</span></div>
+
+
+- <h5>Editing dynamic array formulas within a cell may result in text being aligned outside of the boundary of the cell<br></h5>
+
+
+### Outlook
+
+- <div>Added the ability to enforce S/MIME configuration via group policy</div>
+
+
+- <div><span>Embedded images may appear smaller than expected</span></div>
+
+
+### PowerPoint
+
+- <div><span>Cursor may disappear after moving focus from text</span></div>
+
+
+### Project
+
+- <div><span>Users may experience an error regarding licensing</span></div>
+
+
+- <div><span>The Today button in the date picker may sometimes set the incorrect date</span></div>
+
+
+### Word
+
+- <div><span>Right-clicking can sometimes not result in selecting the whole word</span></div>
+
+
+- <div>The cursor may remain active within an object after converting to a suggested format</div>
+
+
+- <div>Images in messages may be incorrectly scaled in some scenarios</div>
+
+
+- <div>Some themes may make it difficult to determine which comment is selected</div>
+
+
+- <div><span>Selecting a comment hint should now show the modern comments pane when hidden in pane switcher</span></div>
+
+
+### Office Suite
+
+- <div><span>Replying to a comment may cause the textbox to expand vertically beyond the edge of the pane</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1911: October 23
 *Version 1911 (Build 12215.20006)*
 
