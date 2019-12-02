@@ -22,6 +22,38 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 1911: December 02
+*Version 1911 (Build 12228.20332)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Excel
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save. [Learn more](https://support.office.com/en-us/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+### PowerPoint
+
+- **Ink-stant replay:** When inking on your slides, apply a replay animation to replay the actual drawing of your ink during your slide show. [Learn more](https://support.office.com/en-us/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.
+
+### Word
+
+- **Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save. [Learn more](https://support.office.com/en-us/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
