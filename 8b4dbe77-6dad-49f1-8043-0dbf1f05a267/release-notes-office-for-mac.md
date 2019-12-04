@@ -33,6 +33,69 @@ Updates are available from Microsoft AutoUpdate (MAU). To use Microsoft AutoUpda
 
 [//]: # (DO NOT REMOVE)
 
+
+
+## December 04
+Version 16.30 (Build 19101301)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Unknown ****** Please Review ******
+
+- **Microsoft Auto Update 4.17:** 1. What's New in each major update can now be viewed on the Microsoft AutoUpdate dashboard.
+2. Minimum OS requirements for Office 2019 updates has changed to macOS 10.13 with the release of Catalina and we are notifying users to upgrade to get latest Office Updates.
+
+### Apex Shared
+
+- **:** 
+
+- **Sensitivity labeling - support for "let users assign permissions" setting:** If a sensitivity label has the "let users assign permissions" setting turned on, Office will make now make that sensitivity label available in the Sensitivity menu, and will prompt the user for custom permissions when the label is applied.
+
+- **:** 
+
+### Excel
+
+- **Get to Files in Fewer Clicks:** Your recently opened documents are front and center. Open Account settings or Options right from the start page. [Learn more](https://support.office.com/en-us/article/baea7aab-760b-4ee0-af58-06e940d505a4)
+
+- **Type a Formula that Returns Multiple Values:** Quickly type a formula that returns multiple values and they'll automatically spill into the neighboring cells. [Learn more](https://support.office.com/en-us/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+### Excel Mac
+
+- **Insert data using iPhone camera:** Use your iPhone to insert table data into your spreadsheet.
+
+### PowerPoint
+
+- **Get to Files in Fewer Clicks:** Your recently opened documents are front and center. Open Account settings or Options right from the start page. [Learn more](https://support.office.com/en-us/article/baea7aab-760b-4ee0-af58-06e940d505a4)
+
+- **Ink Your Ideas:** Convert your ink to professional looking shapes, text, or math. [Learn more](https://support.office.com/en-us/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+### Word
+
+- **Get to Files in Fewer Clicks:** Your recently opened documents are front and center. Open Account settings or Options right from the start page. [Learn more](https://support.office.com/en-us/article/baea7aab-760b-4ee0-af58-06e940d505a4)
+
+- **CoAuthoring:** Tired of being locked out of your document with macros? Now your docm files on OneDrive for Business allow simultaneous editing by multiple authors. [Learn more](https://support.office.com/en-us/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d)
+
+- **Accessibility built right in: High Sierra Support:** We've added support for High Sierra, including language, links and tables in the rotor, and improved find support.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+
+### Security updates
+
+
+### Excel
+
+-   [CVE-2019-1446](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1446)
+-   [CVE-2019-1448](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1448)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
 ## September 18, 2019 release
 *Version 16.29.1 (Build 19091700)*
 
