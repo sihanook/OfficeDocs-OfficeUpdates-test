@@ -33,10 +33,6 @@ Updates are available from Microsoft AutoUpdate (MAU). To use Microsoft AutoUpda
 
 [//]: # (DO NOT REMOVE)
 
-
-
-## December 04
-Version 16.31 (Build 19111002)
 ## September 18, 2019 release
 *Version 16.29.1 (Build 19091700)*
 
