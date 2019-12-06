@@ -23,6 +23,135 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 1912: December 06
+*Version 1912 (Build 12325.20012)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Outlook
+
+- **Advanced group email settings:** This feature helps groups users to customize which emails or events to receive/follow in their inbox.
+
+- **Groups Naming policy:** A group naming policy enables the IT admin to standardize and manage the names of groups created by users in the organization. The admin can require a specific prefix and suffix be added to the name for a group when it's created, and can block specific words from being used. This helps minimize the use of inappropriate words in group names as well as IT manage the representation of groups in their directory. Naming Policy also helps organizations that deploy team sites to categorize them based on department.
+
+### Office Suite
+
+- **Tabbed Panes:** Now you can switch between multiple panes using a tab UI on the right hand side of the app. The UI will only be visible when you have 2+ panes open.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <div><span>Users may encounter an error when saving changes while using some non-English character sets</span></div>
+
+
+- <div><span>Users may encounter an error when accessing a hidden named range</span></div>
+
+
+- <div><span>Disabling hardware graphics acceleration with 4K resolution may result in delayed rendering of cells when scrolling around.</span></div>
+
+
+- <div>Clearing a long formula that overlaps a cell boundary may still display across the cell boundary.</div>
+
+
+- <div>Resolved an issue with ribbon customization not loading when opening embedded workbook.</div>
+
+
+- <div><span>Margin dropdown menu may not render correctly</span></div>
+
+
+### Modern Project
+
+- <div>Setting effort on tasks that have no assignments are rounded to 1 day.</div>
+
+
+### OneNote
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">OneNote may not open via the 'Meeting Notes' Outlook add-in.</span><br></span></div>
+
+
+### Outlook
+
+- <div><font size=2><font style="background-color:rgba(255, 255, 255, 1);">R<span style="display:inline !important;">etention policy labels may display the retention time period in parenthesis.</span></font></font><br></div>
+
+
+- <div><span><p style="box-sizing:border-box;color:rgba(0, 0, 0, 0.9);margin-bottom:0px;margin-top:0px;">Blank spaces may appear in Contact cards with Japanese language pack.</p><br></span></div>
+
+
+- <div><span>Images inserted inline to Outlook e-mail messages can sometimes get resized</span></div>
+
+
+### PowerPoint
+
+- <div><span><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black;">If a user has two (or more) different videos on a slide in a cloud file, the video images are rendered correctly, but
+when the user clicks on each one to play, the video content is the same.</span><br></span></div>
+
+
+- <div><span>In some cases, scrolling with touch devices will not work</span></div>
+
+
+- <div><span>Margin dropdown menu may not render correctly</span></div>
+
+
+- <div>Safelinks from one Office application to another may not launch the linked application</div>
+
+
+### Project
+
+- <div>Project may crash when you use the Compare Projects feature.</div>
+
+
+- <div>If you are in Dark mode, when you go to the task inspector panel on a task with an overallocated resource, you are unable to read the table.</div>
+
+
+### Word
+
+- <div>Saving a file after doing a mail merge may not work under certain conditions.</div>
+
+
+- <div><span>Building blocks organizer may display an invalid alert: &quot;You have modified styles, building blocks&quot;.</span></div>
+
+
+- <div><span>Comment pane sometimes gets reloaded when using copy/paste</span></div>
+
+
+- <div>Comments are sometimes not pasted in the correct order</div>
+
+
+- <div><span>Applying a template consisting of a multi-level list with custom styles to existing documents may not preserve the style under certain conditions.</span></div>
+
+
+- <div><span>Resizing a split screen border may introduce an additional split screen.</span></div>
+
+
+- <div><span>Margin dropdown menu may not render correctly</span></div>
+
+
+- <div><span>At-mentioning a user in a comment card may show <span style="display:inline !important;font-family:Calibri,Helvetica,sans-serif;font-size:16px;">JSON</span></span></div>
+
+
+- <div>Safelinks from one Office application to another may not launch the linked application</div>
+
+
+### Office Suite
+
+- <div><span>For Japanese based products, account user first name, last name may appear in incorrect order.</span></div>
+
+
+- <div>Hovering a mouse pointer over comments may display a textbox outline around the comment.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1912: November 15
 *Version 1912 (Build 12307.20000)*
 
