@@ -34,48 +34,6 @@ Updates are available from Microsoft AutoUpdate (MAU). To use Microsoft AutoUpda
 [//]: # (DO NOT REMOVE)
 
 
-
-## December 09, 2019
-*Version 16.31 (Build 19111002)*
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### Feature updates
-### Excel
-
-- **Get to Files in Fewer Clicks:** Your recently opened documents are front and center. Open Account settings or Options right from the start page. [Learn more](https://support.office.com/en-us/article/baea7aab-760b-4ee0-af58-06e940d505a4)
-
-- **Type a Formula that Returns Multiple Values:** Quickly type a formula that returns multiple values and they'll automatically spill into the neighboring cells. [Learn more](https://support.office.com/en-us/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
-
-### PowerPoint
-
-- **Get to Files in Fewer Clicks:** Your recently opened documents are front and center. Open Account settings or Options right from the start page. [Learn more](https://support.office.com/en-us/article/baea7aab-760b-4ee0-af58-06e940d505a4)
-
-- **Ink Your Ideas:** Convert your ink to professional looking shapes, text, or math. [Learn more](https://support.office.com/en-us/article/0740dec3-6291-4c1f-8baa-011d18449919)
-
-### Word
-
-- **Get to Files in Fewer Clicks:** Your recently opened documents are front and center. Open Account settings or Options right from the start page. [Learn more](https://support.office.com/en-us/article/baea7aab-760b-4ee0-af58-06e940d505a4)
-
-- **CoAuthoring:** Tired of being locked out of your document with macros? Now your docm files on OneDrive for Business allow simultaneous editing by multiple authors. [Learn more](https://support.office.com/en-us/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d)
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-
-[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
-
-
-### Security updates
-
-
-### Excel
-
--   [CVE-2019-1446](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1446)
--   [CVE-2019-1448](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1448)
-
-[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
-
 ## September 18, 2019 release
 *Version 16.29.1 (Build 19091700)*
 
