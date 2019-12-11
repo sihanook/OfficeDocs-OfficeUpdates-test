@@ -22,6 +22,11 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 1911: December 10
+*Version 1911 (Build 12228.20364)*
+
+Security updates listed [here](https://docs.microsoft.com/en-us/officeupdates/office365-proplus-security-updates)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
