@@ -23,6 +23,99 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2001: December 13
+*Version 2001 (Build 12410.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Outlook
+
+- **Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox. Messages you drag will be shared with all group members.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Access
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);font-size:13.33px;">Executing a union query that references linked ODBC table(s) and contains an Order By clause crashes 64 bit Access.</span><br></span></div>
+
+
+- <div><span>Summing of data from union queries in Access (O365) may result in truncation of decimal data.<br></span></div>
+
+
+- <div><span>COM Interfaces for ACE are not exposed for use outside of Office applications.</span></div>
+
+
+### Excel
+
+- <div><span>Inserting a 3D model (animated or static) and trying to 'Save as Picture' doesn't work.<br></span></div>
+
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">The shortkey (Alt+Ctrl + 7/8)  to launch feedback from backstage is in conflict with AZERTY keyboards (Alt-Gr + 7/8). Impact: users may not be able to use some characters such as: '\'</span><br></span></div>
+
+
+### Outlook
+
+- <div><span style="display:inline !important;">Addresses an issue that caused email to be sent to the wrong address for the recipient.</span><br></div>
+
+
+- <div>Addresses an issue that caused email to be sent to the wrong address for the recipient.</div>
+
+
+- <div>This addresses an issue that caused Outlook to incorrectly allow users with &quot;read&quot; access to a mailbox to change the read/unread state of a message.</div>
+
+
+- <div>The revocation of the security certificate on the web site is not re-producible by Product Support. Logging needs to be added to help root cause the issue.</div>
+
+
+- <div>Addresses an issue that caused users to see synchronization failures.</div>
+
+
+### PowerPoint
+
+- <div><span>Inserting a 3D model (animated or static) and trying to 'Save as Picture' doesn't work.<br></span></div>
+
+
+### Project
+
+- <div><span>Task work is not calculated in Summary roll-up for manually scheduled child tasks.<br></span></div>
+
+
+- <div><span>Project VBA Code invoked from a Ribbon button may not work when trying to save server-based Projects.<br></span></div>
+
+
+- <div><span>Unless Project is already running, opening Project files from a SharePoint document library displays an error and the file will not open.</span></div>
+
+
+### Word
+
+- <div><span>Saving existing files may not work.</span></div>
+
+
+- <div><span>Using arrow keys in the Spelling and Grammar editor window may result in intermittent flickering.<br></span></div>
+
+
+- <div><span>When resolving a follow-up, associated comments may not convert to point comments.</span></div>
+
+
+- <div><span>Inserting a 3D model (animated or static) and trying to 'Save as Picture' doesn't work.<br></span></div>
+
+
+### Office Suite
+
+- <p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;"><span style="font-size:11pt;">Fixed an issue where Office update messages appear in a different language than expected.&nbsp;</span><span style="font-size:11pt;">Going forward, Office update messages will correctly match the Windows display language.</span><br></p>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1912: December 06
 *Version 1912 (Build 12325.20012)*
 
