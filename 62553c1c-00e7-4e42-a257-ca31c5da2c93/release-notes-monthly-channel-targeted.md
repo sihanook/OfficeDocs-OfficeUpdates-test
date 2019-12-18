@@ -22,6 +22,33 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 1912: December 18
+*Version 1912 (Build 12325.20172)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Word
+
+- **A more secure video experience:** Security enhancements mean a safer online video experience for you. [Learn more](https://support.office.com/en-us/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Outlook
+
+- <div><span style="display:inline !important;">Addresses an issue that caused users to see a noticeable delay when interacting with their mailbox folders through keyboard shortcuts.</span><br></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
