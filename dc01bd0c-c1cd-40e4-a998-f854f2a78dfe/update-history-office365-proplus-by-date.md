@@ -28,10 +28,10 @@ The following table lists the supported version, and the most current build numb
 
 |**Channel**|**Version**|**Build**|**Release date**|**Version supported until**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly  <br/> |1903 <br/> |11425.20228 <br/> | April 17, 2019 <br/> |Version 1904 is released <br/>|
-|Semi-Annual (Targeted)  <br/> |1902  <br/> |11328.20230 <br/> |  April 9, 2019 <br/> | September 10, 2019 <br/>|
-|Semi-Annual <br/> |1808  <br/> | 10730.20334<br/> | April 9, 2019  <br/> |  March 10, 2020 <br/>|
-|Semi-Annual <br/> |1803  <br/> | 9126.2382  <br/> | April 9, 2019  <br/> |  September 10, 2019 <br/>|
+|Monthly<br/>|1911<br/>|12228.20364<br/>|December 10, 2019<br/>|Version 1912 is released<br/>|
+|Semi-Annual (Targeted)<br/>|1908<br/>|11929.20516<br/>|December 10, 2019<br/>|March 10, 2020<br/>|
+|Semi-Annual<br/>|1902<br/>|11328.20492<br/>|December 10, 2019<br/>|September 8, 2020<br/>|
+|Semi-Annual<br/>|1808<br/>|10730.20426<br/>|December 10, 2019<br/>|March 10, 2020<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -44,6 +44,7 @@ The following table provides a list of the version and build numbers for each up
 
 |**Year**|**Release date**|**Monthly Channel**|**Semi-Annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|December 30|[Version 1911 (Build 12228.20364)](monthly-channel-2019.md#version-1911-december-30)| | |
 |2019|April 16 |[Version 1903 (Build 11425.20218)](monthly-channel-2019.md#version-1903-april-16)| | |
 |2019|April 9 |[Version 1903 (Build 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[Version 1902 (Build 11328.20230)](semi-annual-channel-targeted-2019.md#version-1903-april-9) |[Version 1808 (Build 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [Version 1803 (Build 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
 |2019|April 1 |[Version 1903 (Build 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | |
