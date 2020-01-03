@@ -23,6 +23,76 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2001: January 03
+*Version 2001 (Build 12425.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Access
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">RelNotesNotNeeded</span><br></div>
+
+
+### Excel
+
+- <div>Some border lines were not printing as expected on A4 size paper.</div>
+
+
+- <div><p style="box-sizing:border-box;margin-top:0px;margin-bottom:0px;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(32, 31, 30);font-size:15px;background-color:white;"><b style="box-sizing:border-box;"><span style="box-sizing:border-box;margin:0px;font-size:16pt;">Excel has decided to<span style="box-sizing:border-box;margin:0px;">&nbsp;</span><span style="box-sizing:border-box;margin:0px;">accept</span><span style="box-sizing:border-box;margin:0px;">&nbsp;</span>this QFE:&nbsp;&nbsp;</span><span style="box-sizing:border-box;margin:0px;"><span style="box-sizing:border-box;margin:0px;font-size:16pt;color:rgb(149, 79, 114);text-decoration:underline;"><span style="box-sizing:border-box;margin:0px;"><a href="https://office.visualstudio.com/OC/_workitems/edit/3771884/" rel="noopener noreferrer" target=_blank title="https://office.visualstudio.com/OC/_workitems/edit/3771884/" style="box-sizing:border-box;cursor:pointer;margin:0px;">3771884</a></span></span></span></b></p><p style="box-sizing:border-box;margin-top:0px;margin-bottom:0px;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(32, 31, 30);font-size:15px;background-color:white;"><span style="box-sizing:border-box;margin:0px;">&nbsp;</span></p><p style="box-sizing:border-box;margin-top:0px;margin-bottom:0px;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(32, 31, 30);font-size:15px;background-color:white;"><span style="box-sizing:border-box;margin:0px;">Thank you for reporting this problem to our team.&nbsp; We have reviewed the issue you sent us and have decided to<span style="box-sizing:border-box;margin:0px;">&nbsp;</span><span style="box-sizing:border-box;margin:0px;">accept</span><span style="box-sizing:border-box;margin:0px;">&nbsp;</span>the hotfix you have requested&nbsp;for QFE&nbsp;<span style="box-sizing:border-box;margin:0px;color:rgb(149, 79, 114);text-decoration:underline;"><span style="box-sizing:border-box;margin:0px;"><a href="https://office.visualstudio.com/OC/_workitems/edit/3771884/" rel="noopener noreferrer" target=_blank title="https://office.visualstudio.com/OC/_workitems/edit/3771884/" style="box-sizing:border-box;cursor:pointer;margin:0px;">3771884</a></span></span>.</span></p><p style="box-sizing:border-box;margin-top:0px;margin-bottom:0px;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(32, 31, 30);font-size:15px;background-color:white;"><b style="box-sizing:border-box;"><span style="box-sizing:border-box;margin:0px;">&nbsp;</span></b></p><p style="box-sizing:border-box;margin-top:0px;margin-bottom:0px;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(32, 31, 30);font-size:15px;background-color:white;"><b style="box-sizing:border-box;"><span style="box-sizing:border-box;margin:0px;">Reason for<span style="box-sizing:border-box;margin:0px;">&nbsp;</span><span style="box-sizing:border-box;margin:0px;">accept</span>ance:</span></b></p><p style="box-sizing:border-box;margin-top:0px;margin-bottom:0px;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(32, 31, 30);font-size:15px;background-color:white;"><span style="box-sizing:border-box;margin:0px;">The scenario caused a large enough problem for customers that it was deemed necessary to fix.&nbsp; The issue in question, having to manually add in a header image to a chart using a macro because the macro would fail, happened often enough to make it necessary.</span></p><p style="box-sizing:border-box;margin-top:0px;margin-bottom:0px;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(32, 31, 30);font-size:15px;background-color:white;"><span style="box-sizing:border-box;margin:0px;">&nbsp;</span></p><p style="box-sizing:border-box;margin-top:0px;margin-bottom:0px;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(32, 31, 30);font-size:15px;background-color:white;"><b style="box-sizing:border-box;"><span style="box-sizing:border-box;margin:0px;">Timeline for the fix:</span></b></p><p style="box-sizing:border-box;margin-top:0px;margin-bottom:0px;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(32, 31, 30);font-size:15px;background-color:white;"><span style="box-sizing:border-box;margin:0px;">Pending successful validation of the fix.&nbsp; The fix will be released on the following schedule:</span></p><ul style="box-sizing:border-box;padding:0px 0px 0px 40px;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(32, 31, 30);font-size:15px;margin-top:0px;margin-bottom:0px;"><li style="box-sizing:border-box;font-size:11pt;font-family:Calibri, sans-serif;margin:0px;"><b style="box-sizing:border-box;"><u style="box-sizing:border-box;">Insiders Fast</u></b><b style="box-sizing:border-box;">:</b>&nbsp;&nbsp;Initial fix will be checked into our&nbsp;codebase in the next two weeks.&nbsp;&nbsp;If no issues are found that fix will reach our insiders fast audience in the next 4-5 weeks.&nbsp;&nbsp;If you would like to validate that the fix will work for your&nbsp;scenario,&nbsp;please install an insider's fast build on a test box within your organization.&nbsp;&nbsp;Instructions for how to update to the&nbsp;insider's&nbsp;fast release of Office can be found here:&nbsp;&nbsp;<a href="https://nam06.safelinks.protection.outlook.com/?url=https://insider.office.com/en-us/&amp;data=04%7c01%7cbrslinin%40microsoft.com%7c00c933a0bfa940d0d37a08d77856972c%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637110185608667687%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c-1&amp;sdata=/AfF0nhEbu0EqiEuNQJLSWSZbjVS6cxK9TtY4llvfCs%3D&amp;reserved=0" rel="noopener noreferrer" target=_blank title="Original URL: https://insider.office.com/en-us/. Click or tap if you trust this link." style="box-sizing:border-box;text-decoration:underline;cursor:pointer;margin:0px;"><span style="box-sizing:border-box;margin:0px;color:rgb(149, 79, 114);">https://insider.office.com/en-us/</span></a>.&nbsp; Release notes for these builds will have information detailing what build your bug was fixed in:&nbsp;<a href="https://nam06.safelinks.protection.outlook.com/?url=https://docs.microsoft.com/en-us/officeupdates/release-notes-office-insider&amp;data=04%7c01%7cbrslinin%40microsoft.com%7c00c933a0bfa940d0d37a08d77856972c%7c72f988bf86f141af91ab2d7cd011db47%7c1%7c0%7c637110185608677686%7cUnknown%7cTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7c-1&amp;sdata=iSL0qytoTlu3RusX239l5tr5NequjohK3Zn1I3LQoRw%3D&amp;reserved=0" rel="noopener noreferrer" target=_blank title="Original URL: https://docs.microsoft.com/en-us/officeupdates/release-notes-office-insider. Click or tap if you trust this link." style="box-sizing:border-box;text-decoration:underline;cursor:pointer;margin:0px;"><span style="box-sizing:border-box;margin:0px;color:rgb(149, 79, 114);">https://docs.microsoft.com/en-us/officeupdates/release-notes-office-insider</span></a>.</li><li style="box-sizing:border-box;font-size:11pt;font-family:Calibri, sans-serif;margin:0px;"><b style="box-sizing:border-box;"><u style="box-sizing:border-box;">Monthly Channel</u></b><b style="box-sizing:border-box;">:&nbsp;</b>The fix will be available in our current channel for the Office 365 Monthly update with the December 2019 (1912) fork. We expect the fix to be available for production customers around the second week of<span style="box-sizing:border-box;margin:0px;color:black;background-color:white;">&nbsp;<b style="box-sizing:border-box;"><u style="box-sizing:border-box;">February 2020</u></b></span>.</li><li style="box-sizing:border-box;font-size:11pt;font-family:Calibri, sans-serif;margin:0px 0px 12pt;"><b style="box-sizing:border-box;"><u style="box-sizing:border-box;"><span style="box-sizing:border-box;margin:0px;color:black;background-color:white;">Semi Annual Targeted Channel</span></u></b><b style="box-sizing:border-box;"><span style="box-sizing:border-box;margin:0px;color:black;background-color:white;">:&nbsp;</span></b><span style="box-sizing:border-box;margin:0px;color:black;background-color:white;">The fix will be available in our&nbsp;Semi-Annual Targeted channel update for Office 365 subscription customers because the January 2020 (2001) fork will be the new SACT release</span></li><li style="box-sizing:border-box;font-size:11pt;font-family:Calibri, sans-serif;margin:0px;"><b style="box-sizing:border-box;"><u style="box-sizing:border-box;"><span style="box-sizing:border-box;margin:0px;color:black;">Semi Annual Channel</span></u></b><b style="box-sizing:border-box;"><span style="box-sizing:border-box;margin:0px;color:black;">:</span></b><span style="box-sizing:border-box;margin:0px;color:black;">&nbsp;The fix will be available in our&nbsp;<span style="box-sizing:border-box;margin:0px;background-color:white;">Semi-Annual channel update for Office 365 subscription customers in the July 2019 (1907) fork</span>. &nbsp;We expect to release for production customers in the patch Tuesday release for the month of&nbsp;<b style="box-sizing:border-box;"><u style="box-sizing:border-box;">March 2020</u></b>.</span></li><li style="box-sizing:border-box;font-size:11pt;font-family:Calibri, sans-serif;margin:0px;"><b style="box-sizing:border-box;"><u style="box-sizing:border-box;"><span style="box-sizing:border-box;margin:0px;color:black;">Office 2019</span></u></b><b style="box-sizing:border-box;"><span style="box-sizing:border-box;margin:0px;color:black;">:</span></b><span style="box-sizing:border-box;margin:0px;color:black;">&nbsp;</span><span style="box-sizing:border-box;margin:0px;">The fix will&nbsp;</span><b style="box-sizing:border-box;"><i style="box-sizing:border-box;">not</i></b><span style="box-sizing:border-box;margin:0px;">&nbsp;be available for Office 2016 Customers.&nbsp; The issue is not found in Excel 2019 LTSB (it started in 1809 and LTSB is 1807), so there is nothing there to fix.</span></li><li style="box-sizing:border-box;font-size:11pt;font-family:Calibri, sans-serif;margin:0px;"><b style="box-sizing:border-box;"><u style="box-sizing:border-box;">Office 2016</u></b><b style="box-sizing:border-box;">:&nbsp;</b>The fix will&nbsp;<b style="box-sizing:border-box;"><i style="box-sizing:border-box;">not</i></b>&nbsp;be available for Office 2016 Customers.&nbsp; The issue is not found in Excel 2016, so there is nothing there to fix.</li></ul><p style="box-sizing:border-box;margin-top:0px;margin-bottom:0px;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(32, 31, 30);font-size:15px;background-color:white;"><span style="box-sizing:border-box;margin:0px;">&nbsp;</span></p><p style="box-sizing:border-box;margin-top:0px;margin-bottom:0px;font-family:Calibri, Arial, Helvetica, sans-serif;color:rgb(32, 31, 30);font-size:15px;background-color:white;"><i style="box-sizing:border-box;"><span style="box-sizing:border-box;margin:0px;">*If this plan changes due to issue found during validation we will notify you and provide an updated plan for delivery of the fix.</span></i></p><br></div>
+
+
+- <div><span>When formatting a chart axis, the interval between labels is limited to 255.</span></div>
+
+
+- <div>Fixed an issue where an error would occur trying to refresh an XML query in which the URL to the datasource was being truncated.</div>
+
+
+- <div><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">Workbook Statistics reports a macro count
+from all open workbooks, including the personal macro workbook.</span><br></div>
+
+
+### Outlook
+
+- <div>Switching folders may result in a brief white 'flash' in the mail list / mail preview. This behavior is more pronounced in dark mode.</div>
+
+
+### PowerPoint
+
+- <div><span style="color:rgba(0, 0, 0, 0.9);display:inline !important;">Fixed an OM issue where calling Shape.Paste method results in the pasted shape receiving focus.&nbsp;</span><br></div>
+
+
+- <div>Improved a copy-paste scenario:&nbsp;<span style="font-size:13.3333px;display:inline !important;">Copying the Shape in powerpoint slide and paste it in other slide in a loop might fail with exception.&nbsp;</span></div>
+
+
+- <div><span>Animation in the section headers of slides may not render properly after <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">collapsing and expanding section headers.</span></span></div>
+
+
+### Project
+
+- <div>Fixed an issue where if a resource has more than one cost rate, cost value on assignments may not be correct.</div>
+
+
+- <div>Fixed an issue where text wrapping wasn't working in the task and resource usage views.</div>
+
+
+### User Lifecycle
+
+- <div>Removed showing erroneous expiry date of the valid license when trying to change license with only one license</div>
+
+
+### Word
+
+- <div><span><span>Inserting a control (such as a Text Content Control) in an equation then saving and opening the file results in an un-readable content error.</span><br></span></div>
+
+
+- <div><span>When co-authoring, adding a comment using Word online may not appear in Word desktop.</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2001: December 13
 *Version 2001 (Build 12410.20000)*
 
