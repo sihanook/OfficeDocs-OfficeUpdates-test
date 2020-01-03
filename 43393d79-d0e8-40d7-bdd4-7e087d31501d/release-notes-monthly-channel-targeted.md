@@ -22,6 +22,20 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 1912: January 03
+*Version 1912 (Build 12325.20240)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### PowerPoint
+
+- **GIFs in a jiffy:** One slide, one frame. Easily create looping GIFs in PowerPoint. [Learn more](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
