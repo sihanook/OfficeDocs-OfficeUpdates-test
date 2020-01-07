@@ -32,6 +32,32 @@ For information about features, security updates, and non-security updates that 
 
 [//]: # (DO NOT REMOVE)
 
+## January 7, 2020
+
+[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+
+### Semi-Annual Channel
+
+<i>The expected release is Version 1902 (Build 11328.20492).</i>
+
+|**Release upgrading from**|**Release date**|**Approximate download size (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20480) <br/> |November 22, 2019 <br/> |61<br/> |
+|Version 1902 (Build 11328.20468) <br/> |November 12, 2019 <br/> |63<br/> |
+
+
+### Semi-Annual (Targeted) Channel
+
+<i>The expected release is Version 1908 (Build 11929.20562).</i>
+
+|**Release upgrading from**|**Release date**|**Approximate download size (in MB)**|
+|:-----|:-----|:-----|
+|Version 1908 (Build 11929.20516) <br/> |December 10, 2019 <br/> |59<br/> |
+|Version 1908 (Build 11929.20494) <br/> |November 22, 2019 <br/> |64<br/> |
+
+
+[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+
 ## April 29, 2019
 
 [//]: # (DO NOT REMOVE CONTENT STARTApril 29, 2019)
