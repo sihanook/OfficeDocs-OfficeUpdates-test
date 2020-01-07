@@ -22,6 +22,33 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 1912: January 07
+*Version 1912 (Build 12325.20264)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### PowerPoint
+
+- **GIFs in a jiffy:** One slide, one frame. Easily create looping GIFs in PowerPoint. [Learn more](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Outlook
+
+- <div>Addresses an issue that caused users to see emails sent to an address that did not match the displayed SMTP address in some circumstances.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
