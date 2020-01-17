@@ -23,6 +23,45 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2002: January 17
+*Version 2002 (Build 12508.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Word
+
+- **Mention & comment notification emails now contain previews:** Email notifications for mentions & comments will now include previews of the comment text and context for what it is referring to.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <h5>In some cases, the Accessibility checker would not show the recommendations for shapes.</h5>
+
+
+### Outlook
+
+- <div><span>Folders saved in 'Favorites' in the left navigation pane may intermittently disappear.</span></div>
+
+
+### PowerPoint
+
+- <div><span><p style="margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:&quot;Calibri&quot;, sans-serif;"></p><p style="margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:&quot;Calibri&quot;, sans-serif;"><span><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Fixed an issue where Ink
+may not render completely or get skipped when used in a PowerPoint ink
+animations.</span></span></p><span></span><p></p></span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2001: January 03
 *Version 2001 (Build 12425.20000)*
 
