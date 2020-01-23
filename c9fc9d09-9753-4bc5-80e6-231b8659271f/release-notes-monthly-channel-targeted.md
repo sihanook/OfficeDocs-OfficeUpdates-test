@@ -22,6 +22,45 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2001: January 23
+*Version 2001 (Build 12430.20120)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Excel
+
+- **Read and reply on the fly:** Respond to comments and mentions right from email without opening the workbook.
+
+- **Ready, set, draw:** When you grab your Surface Pen, you're ready to draw. [Learn more](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **Data Profiling in Query Editor:** Get at-a-glance analysis of the data in your columns, identify error and empty values, see distribution histograms and more.
+
+### PowerPoint
+
+- **Ready, set, draw:** When you grab your Surface Pen, you're ready to draw. [Learn more](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### Word
+
+- **Ready, set, draw:** When you grab your Surface Pen, you're ready to draw. [Learn more](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Access
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly</span></span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
