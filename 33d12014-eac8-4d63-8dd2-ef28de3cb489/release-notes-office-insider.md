@@ -22,6 +22,124 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2002: January 23
+*Version 2002 (Build 12508.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Unknown ****** Please Review ******
+
+- **New Office app icons:** Redesigned app icons to reflect the simple, powerful, and intelligent experiences of Office
+
+### Excel
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save. [Learn more](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.
+
+- **Apply sensitivity labels to your documents and emails:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.  [Learn more](https://aka.ms/officemipdocs)
+
+- **Bring the context along with your SVG objects!:** Now you can retain the text in maps, chart and other SVG vectors when converting these objects in Office.
+
+- **Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere. [Learn more](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Code quickly with Power Query enhancements:** Get to code completion quickly with auto-complete and syntax coloring. Easily discover functions, columns, and parameters, too.
+
+- **Join tables on similar columns:** Get & Transform (Power Query) now features approximate text matching logic (also called fuzzy matching) when comparing columns for merging tables. [Learn more](https://support.office.com/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+
+- **Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want. And when you're selecting, the Insert button tells you how many you've picked. [Learn more](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+- **Collaboration just got easier:** Co-authoring improvements mean that when working with conditional formatting, cell styles, and more, your changes are merged seamlessly with those of your collaborators.
+
+- **Data visualizer add-in:** Quickly create Visio flowcharts from Excel. [Learn more](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### Insights Services
+
+- **Tell it like you mean it:** Got a question about your data? In Excel Ideas, simply enter a question and we'll get you the answer. [Learn more](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+### Outlook
+
+- **Apply sensitivity labels to your documents and emails:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.  [Learn more](https://aka.ms/officemipdocs)
+
+- **Advanced protection against attack:** With Office 365 Advanced Threat Protection, you're protected against attacks through hyperlinks within email subjects, attached messages, signed messages, network paths, and so on.
+
+- **Advanced group email settings:** This feature helps groups users to customize which emails or events to receive/follow in their inbox.
+
+- **Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content
+
+- **Groups Naming policy:** A group naming policy enables the IT admin to standardize and manage the names of groups created by users in the organization. The admin can require a specific prefix and suffix be added to the name for a group when it's created, and can block specific words from being used. This helps minimize the use of inappropriate words in group names as well as IT manage the representation of groups in their directory. Naming Policy also helps organizations that deploy team sites to categorize them based on department.
+
+- **Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox. Messages you drag will be shared with all group members.
+
+- **User can now save objects in Word/XL/Outlook as a picture for Windows.:** With the ability already seen in PowerPoint, users can now save objects in W/X/O as a picture. Objects include shapes, icons, pictures, and more! This can be accessed through the right-click menu.
+
+- **User can now save objects in Word/XL/Outlook as a picture for Windows.:** With the ability already seen in PowerPoint, users can now save objects in W/X/O as a picture. Objects include shapes, icons, pictures, and more! This can be accessed through the right-click menu.
+
+- **Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want. And when you're selecting, the Insert button tells you how many you've picked. [Learn more](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### PowerPoint
+
+- **Print slide numbers on handouts:** Slide numbers are included on your handouts automatically. Leave them on, turn them off, it's all up to you. [Learn more](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.
+
+- **Apply sensitivity labels to your documents and emails:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.  [Learn more](https://aka.ms/officemipdocs)
+
+- **Save an illustration as SVG:** Save a chart, shape, or other illustration as a scalable vector graphic, which can be resized with no loss of image quality. [Learn more](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Bring the context along with your SVG objects!:** Now you can retain the text in maps, chart and other SVG vectors when converting these objects in Office.
+
+- **Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.
+
+- **Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want. And when you're selecting, the Insert button tells you how many you've picked. [Learn more](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### Visio
+
+- **Export Visio visuals from Power BI:** Visio Visual for Power BI will now display properly when you export Power BI reports as PDFs, PowerPoint files, and more. [Learn more](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+- **Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart by putting data on a worksheet. [Learn more](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### Word
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save. [Learn more](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.
+
+- **Say it another way:** When you want to say it differently, Rewrite is there to help. Rewrite offers alternatives for finessing your phrases.
+
+- **Apply sensitivity labels to your documents and emails:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.  [Learn more](https://aka.ms/officemipdocs)
+
+- **Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.
+
+- **Coauthoring improvements:** Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.
+
+- **Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.
+
+- **A more secure video experience:** Security enhancements mean a safer online video experience for you. [Learn more](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+
+- **Lasso your ink:** The Lasso tool on the Draw tab helps you select objects drawn with ink. Select individual strokes, or whole words. [Learn more](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want. And when you're selecting, the Insert button tells you how many you've picked. [Learn more](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### Office Suite
+
+- **The Upload Center is being replaced by the Files Needing Attention experience:** The Upload Center is being replaced by the Files Needing Attention experience that will show up inside the Office applications under File > Open. This new experience is more modern, integrated, and less intrusive compared to the Upload Center.
+
+- **Tabbed Panes:** Now you can switch between multiple panes using a tab UI on the right hand side of the app. The UI will only be visible when you have 2+ panes open.
+
+- **Privacy controls:** New, updated, and improved controls for diagnostic data and connected experiences. Learn more <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json>
+
+- **Office icons have a new look:** The Office icons have been redesigned to reflect simple, powerful, and intelligent Office experiences.
+
+- **Office icons have a new look:** The Office icons have been redesigned to reflect simple, powerful, and intelligent Office experiences.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
