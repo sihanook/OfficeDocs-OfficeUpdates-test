@@ -22,6 +22,43 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2001: January 28
+*Version 2001 (Build 12430.20170)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Word
+
+- **Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere. [Learn more](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### excel.exe
+
+- <div>Addresses an issue that caused users to experience crashes when renaming a signature.</div>
+
+
+### Outlook
+
+- <div>Addresses an issue that caused users to experience crashes when renaming a signature.</div>
+
+
+### outlook.exe
+
+- <div>Addresses an issue that caused users to experience crashes when renaming a signature.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
