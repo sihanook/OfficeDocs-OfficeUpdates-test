@@ -23,6 +23,50 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2002: January 31
+*Version 2002 (Build 12513.20010)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Excel
+
+- **Read and reply on the fly:** Respond to comments and mentions right from email without opening the workbook.
+
+- **Data Profiling in Query Editor:** Get at-a-glance analysis of the data in your columns, identify error and empty values, see distribution histograms and more.
+
+### Word
+
+- **:** 
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Outlook
+
+- <div><span>Fixed an issue where emails expiring based on a retention policy would display two labels. One showing that the mail will expire in one day and another displaying that it will expire in two days.<br></span></div>
+
+
+### Word
+
+- <div><span>Fixed an issue where </span><font style="background-color:rgba(255, 255, 255, 1);">c<span style="display:inline !important;">omment hint was not visible in read mode with &quot;Inverse&quot; page color.</span></font></div>
+
+
+- <div><span>Fixed an issue where italics formatting is lost after editing a comment, italicizing the text and then posting it.<br></span></div>
+
+
+- <div><span>Fixed an issue where comment commands (Edit comment, Reply to comment, Delete comment, Resolve comment) in the comments context menu were not being displayed.</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2002: January 17
 *Version 2002 (Build 12508.20000)*
 
