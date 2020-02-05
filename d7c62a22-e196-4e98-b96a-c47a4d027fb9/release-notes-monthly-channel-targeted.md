@@ -22,6 +22,45 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2001: February 05
+*Version 2001 (Build 12430.20184)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Outlook
+
+- **Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox. Messages you drag will be shared with all group members.
+
+### Word
+
+- **Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <div><span>Fixed an issue where comment commands in the context menu were not being displayed. &nbsp;</span></div>
+
+
+### Outlook
+
+- <span style="display:inline !important;">Addresses an issue that caused users to experience a crash when specifying an invalid From address.</span>
+
+
+- <div>Addresses an issue that caused users to experience a crash when canceling account setup.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
