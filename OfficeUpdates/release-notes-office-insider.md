@@ -23,6 +23,86 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2002: February 07
+*Version 2002 (Build 12527.20040)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Access
+
+- **Be more productive working in Query Designer, SQL view, and the Relationships window:** Right-click a table to open, design, size, and hide it. Search and replace text in SQL View. Select multiple tables in the Relationships window.
+
+### Word
+
+- **:** 
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Access
+
+- <div><span style="display:inline !important;">This update fixes an issue where using an ADODB. Recorder object in VB code may incorrectly report an error.&nbsp;</span><br></div>
+
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly</span><br></span></div>
+
+
+### Excel
+
+- <div>Fixed an issue where Excel would crash when using Text To Columns with dynamic arrays.</div>
+
+
+### Outlook
+
+- <div>Fixed an issue where scrolling in calendar with month view, fails to show previous calendar events.<br></div>
+
+
+- <div>Addresses an issue that caused users to experience a crash when viewing more than 30 calendars in a Citrix environment.</div>
+
+
+### PowerPoint
+
+- <div>Fixed an issue where&nbsp;<span style="font-size:13.3333px;display:inline !important;">After closing a file, PowerPoint does not immediately remove it from the Presentations collection if there are any event handlers running. Hence the number of open presentations reported by the object model is incorrect, and shutdown of PowerPoint is prevented.</span>&nbsp;</div>
+
+
+- <div>Fixed an issue with highlighter : White texts with dark highlighter colors are printed as black in Grayscale.&nbsp;</div>
+
+
+### Word
+
+- <div>Updating and scrolling through a table of contents may sometimes display a gray area over the document.</div>
+
+
+- <div>Fixed an issue where if a document is being coauthored, the draft version of a root comment may not be preserved.</div>
+
+
+- <div>Fixed an issue where going back and forth between comment cards would sometimes display the initially selected comment with a selection highlight.</div>
+
+
+- <div>Fixed an issue where using 'Browse' to save a file did not work if a comment was written but not posted and the user tried to save the file.</div>
+
+
+- <div>With SlideTrack enabled and the comments pane closed,&nbsp;Ctrl+Alt+M may not open the comments pane.</div>
+
+
+- <div>Fixed an issue when adding @mention in a table could generate the error message: 'A table in this document has become corrupted'.</div>
+
+
+### Office Suite
+
+- <div>Resolves an issue that may have caused Norway Nynorsk (nn-no) proofing tools package to be installed incorrectly.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2002: January 31
 *Version 2002 (Build 12513.20010)*
 
