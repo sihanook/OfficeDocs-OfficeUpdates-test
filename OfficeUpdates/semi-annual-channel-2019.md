@@ -24,6 +24,26 @@ These release notes provide information about new features, security updates, an
 > [!NOTE]
 > - The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md).
 
+## Version 1902: February 14
+*Version 1902 (Build 11328.20526)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Outlook
+
+- <div>Addresses an issue that caused users to encounter &quot;<span style="font-family:sans-serif;font-size:13.93px;text-align:left;background-color:rgb(249, 249, 249);display:inline !important;">encryption algorithm is not supported&quot; errors when sending an encrypted email.</span></div>
+
+
+### Office Suite
+
+- <div><span>Fixes a crash in Word by moving away from a deprecated API.</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1908: February 14
 *Version 1908 (Build 11929.20606)*
 
