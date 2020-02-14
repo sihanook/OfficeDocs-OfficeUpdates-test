@@ -24,6 +24,26 @@ These release notes provide information about new features, security updates, an
 > [!NOTE]
 > - The security updates information for each update channel of Office 365 ProPlus will start being listed separately at [Security Updates](office365-proplus-security-updates.md).
 
+## Version 1908: February 14
+*Version 1908 (Build 11929.20606)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Word
+
+- <div>We fixed an issue where in some cases, saving an existing file always causes the Save As dialog and the file never actually saves<br></div>
+
+
+### Office Suite
+
+- <div><span>This change addresses slow rendering of some scatter charts with markers.</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 1908: February 04
 *Version 1908 (Build 11929.20562)*
 
