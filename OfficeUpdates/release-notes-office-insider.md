@@ -23,6 +23,76 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2003: February 19
+*Version 2003 (Build 12615.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Excel
+
+- **Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.
+
+### Outlook
+
+- **Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.
+
+### PowerPoint
+
+- **Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.
+
+### Word
+
+- **Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <div><u style="box-sizing:border-box;font-size:16px;color:rgb(0, 128, 0);"><p style="margin:0in 0in 0.0001pt;font-size:9pt;font-family:&quot;Helvetica Neue&quot;;font-weight:normal;"><br></p></u></div>
+
+
+- <p style="margin:0in 0in 0pt;font-family:&quot;Calibri&quot;,sans-serif;font-size:11pt;"><br></p><div></div>
+
+
+- <div>We fixed a bug where CSV files were loaded incorrectly when the first word in the file was TABLE.</div>
+
+
+- Please contact the PM(Theresa Estrada ) to get the Accept message that was sent to the customer.
+
+
+### Outlook
+
+- <div>Addresses an issue that caused Outlook to unexpectedly generate logging output in some scenarios, even when logging was turned off.</div>
+
+
+- <div>Addresses an issue that caused users to be unable to open public folder messages when Outlook was left running overnight.</div>
+
+
+### Project Online
+
+- <div>Fixed an issue where you couldn't edit a resource after deleting a resource custom field.</div>
+
+
+### Office Suite
+
+- <div><p style="margin:0in 0in 8pt;font-size:11pt;font-family:Calibri, sans-serif;"><span style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;background:white;">When using Multichoice/Lookup/Managed-metadata
+properties with Word/Excel/PowerPoint documents and saving to a SharePoint
+Document Library, these properties were previously limited to 255 characters.
+When these properties exceeded 255 characters, such documents could not be
+saved. With this change, this limit has been increased to 2048 characters.</span></p></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2003: February 14
 *Version 2003 (Build 12607.20000)*
 
