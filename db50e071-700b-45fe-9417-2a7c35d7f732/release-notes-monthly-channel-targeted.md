@@ -22,6 +22,9 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2002: February 26
+*Version 2002 (Build 12527.20194)*
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
