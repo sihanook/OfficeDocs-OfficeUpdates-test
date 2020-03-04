@@ -23,6 +23,37 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2003: March 03
+*Version 2003 (Build 12624.20086)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <div>Fixed an issue where text in a slicer isn't scaled properly in Print Preview.</div>
+
+
+### Security
+
+- <div>Fixes an issue when multiple documents are open in Word/Excel/PowerPoint from the same SharePoint library, only the first document opened will be scanned for Policy compliance.</div>
+
+
+### Word
+
+- <div>Fixed an issue that when tabbing through a comment card, the focus on the comment edit box would not be visible.</div>
+
+
+- <div><span><span>Inserting a control (such as a Text Content Control) in an equation then saving and opening the file results in an un-readable content error.</span><br></span></div>
+
+
+- <div>Fixed an issue where saving a previously password protected file to a cloud storage would not work.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2003: February 19
 *Version 2003 (Build 12615.20000)*
 
