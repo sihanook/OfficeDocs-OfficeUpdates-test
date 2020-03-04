@@ -31,6 +31,9 @@ To find release notes, see [Insider release notes for Office for Windows desktop
 
 [//]: # (DO NOT REMOVE)
 
+**March 03, 2020**<br/>
+Version 2003 (Build 12624.20086)<br/>
+
 **November 13, 2019**<br/>
 Version 1912 (Build 12307.20000)<br/>
 
