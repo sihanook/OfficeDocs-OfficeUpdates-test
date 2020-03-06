@@ -23,6 +23,53 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2003: March 06
+*Version 2003 (Build 12624.20086)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <div>Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</div>
+
+
+### Outlook
+
+- <div>Fixed an issue where creating a rule with Outlook Web Access did not persist to the Exchange server and resulted in a conflict.</div>
+
+
+- <div>Fixed an issue with Outlook in dark mode would not display the drop down list in the 'From:' field.</div>
+
+
+- <div>Addresses an issue that caused users to be unable to attach a file to their mail message via the file explorer when that file was open in another application.</div>
+
+
+### PowerPoint
+
+- <div>Fixed an issue where the recommended thumbnails flash when hovering your mouse over the thumbnails. In some cases this could cause PowerPoint to crash.</div>
+
+
+- <div>Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</div>
+
+
+### Word
+
+- <div>Fixed a cosmetic issue where the 'OK' button on the File \ Options dialog displayed as being grayed out but functionality was not impacted.</div>
+
+
+- <div>Fixed an issue with Compare feature for <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);font-size:13.33px;">documents that were protected for editing.</span></div>
+
+
+### Office Suite
+
+- <div>Fixed an issue Word/Excel/PowerPoint where the User Principal Name (UPN) is no longer case sensitive resulting in less failures when working with files on SharePoint.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2003: February 19
 *Version 2003 (Build 12615.20000)*
 
