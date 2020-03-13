@@ -23,6 +23,20 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2004: March 12
+*Version 2004 (Build 12703.20010)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Security
+
+- **Sensitivity labels:** You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
 ## Version 2003: March 06
 *Version 2003 (Build 12624.20086)*
 
