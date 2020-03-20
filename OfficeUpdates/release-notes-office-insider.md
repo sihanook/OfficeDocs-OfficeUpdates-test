@@ -23,6 +23,101 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2004: March 20
+*Version 2004 (Build 12711.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Outlook
+
+- **Calendar visual refresh:** Last year, we brought you a refreshed mail experience, and, this year, it is the calendar’s turn to get a facelift! The updates are fresh but familiar so, as a seasoned Outlook user, you can jump in and be more productive right away.
+
+- **Help protect data in your group:** The Sensitivity label you choose when creating a group is applied to group email, documents, and team sites
+
+### PowerPoint
+
+- **Update slides during slide show:** Update slides changed by other authors during your presentation.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <div><span>This change addresses delays when processing images with malformed or invalid protocol information.</span></div>
+
+
+### Outlook
+
+- <div><span>This change addresses delays when processing images with malformed or invalid protocol information.</span></div>
+
+
+- <div>This change fixes an issue where the latest changes to draft emails were not being updated.</div>
+
+
+- <div>Fixed an issue where right-mouse clicking on a file and using 'Send to' would not work.</div>
+
+
+- <div>Fixed an issue where if a user had a customized the search path for the Address book<span style="display:inline !important;">, Outlook's name resolution scope would be limited to the customized path rather than including the Global Address List (GAL).</span></div><div><span style="display:inline !important;"><br></span></div><div><span style="display:inline !important;"><br></span></div>
+
+
+- <div>Fixed an issue where w<span style="display:inline !important;">ithin a set of returned search results, sorting the results by Categories would not display the Category colors.</span></div>
+
+
+### Project
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;">Fixed an issue where the 'ProjectBeforeTaskChange' Visual Basic Applications (VBA) event did not fire when a user clicked the “Inactivate” button found on the Tasks Ribbon within the Scheduling
+grouping.</span><br></div>
+
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;">If
+you set predecessor or successor details from within a Form type view, the
+ProjectBeforeTaskChange Visual Basic Applications (VBA) event didn't always capture
+the changes. For example, if you deleted a dependency and clicked OK on the form,
+the event did not fire. This behavior has been fixed.</span><br></div>
+
+
+- <div>Fixed an issue where the latest values for the&nbsp;<span style="color:rgb(30, 30, 30);font-family:&quot;Segoe UI&quot;, &quot;Segoe UI Web&quot;, wf_segoe-ui_normal, &quot;Helvetica Neue&quot;, &quot;BBAlpha Sans&quot;, &quot;S60 Sans&quot;, Arial, sans-serif;font-size:16px;display:inline !important;">Actual Cost of Work Performed (ACWP) would not be displayed after making a change, such as a date change.</span></div>
+
+
+- <div>Fixed an issue where opening a project using the Most Recently Used (MRU) menu opened the project file with Read/Write access.</div>
+
+
+- <div>This change fixes an issue where if you created a manual task with a start date and a time (but no duration), it would be displayed with an incorrect time on the timeline.</div>
+
+
+- <div>Fixed an issue where printing a timeline using a&nbsp;<span style="display:inline !important;">Hijri calendar would result in a month being skipped or duplicated in the print view.</span></div>
+
+
+- <div>This change addresses an issue where working in Team Planner with GDI objects, could result in the over allocation of GDI objects and create low memory conditions.</div>
+
+
+### Word
+
+- <div>Fixed an issue where the functionality to post comments was disabled.</div>
+
+
+- <div><span>This change addresses delays when processing images with malformed or invalid protocol information.</span></div>
+
+
+- <div>This change addresses an issue where the account manager would not dispatch messages resulting in a hang with third party applications.</div>
+
+
+- <div>This change fixes an issue where the&nbsp;<span style="display:inline !important;">Table of Contents would get updated with heading styles which were not present in the document.</span></div>
+
+
+- <div>Fixed an issue where digital signatures saved in Word documents would be removed when mailing the documents.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2004: March 12
 *Version 2004 (Build 12703.20010)*
 
