@@ -26,6 +26,23 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 *Version 2003 (Build 12624.20320)*
 * Various bugs and performance fixes.
 
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Office Suite
+
+- **Seamlessly switch between accounts:** The new account manager shows all of your work and personal accounts in one place, and put you in control of switching between them.
+
+- **Share and upload your documents with the new exposed buttons in the Info Place:** Previously Share, Copy Path to Clipboard, and Open File Location buttons were only accessible behind the document save path. Now they're buttons you can clearly see in the Info Place! Navigate to File > Info as you normally would to see these new buttons.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## Version 2003: March 25
+*Version 2003 (Build 12624.20320)*
+* Various bugs and performance fixes.
+
 ## Version 2003: March 25
 *Version 2003 (Build 12624.20320)*
 
