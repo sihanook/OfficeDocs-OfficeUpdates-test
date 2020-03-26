@@ -22,6 +22,20 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2003: March 25
+*Version 2003 (Build 12624.20320)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Project
+
+- <div>Fixed an issue where Project may crash when saving projects created with older versions of Project.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2002: February 13
 *Version 2002 (Build 12527.20092)*
 
