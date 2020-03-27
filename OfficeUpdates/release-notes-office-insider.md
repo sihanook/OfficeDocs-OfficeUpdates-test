@@ -23,6 +23,20 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2004: March 27
+*Version 2004 (Build 12718.20010)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Outlook
+
+- **New option to disable @ mention suggestions when composing mail:** Do you find the @ mention picker more annoying than useful? Now you can turn it off if you prefer.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
 ## Version 2004: March 20
 *Version 2004 (Build 12711.20000)*
 
