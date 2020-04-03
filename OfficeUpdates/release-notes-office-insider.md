@@ -23,6 +23,78 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2004: April 03
+*Version 2004 (Build 12725.20006)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Access
+
+- **"Add Tables" Task Pane:** Access's new "Add Tables" Task Pane is finally here! This feature allows you to easily select/multi-select which tables they'd like to add/remove into a query window, without navigating to the "Show Tables" dialog for queries and for relationship view. This also includes a new "links" tab to display linked tables, a search box to filter the current list, "drag and drop" behavior, and more!
+
+### Excel
+
+- **M365 Premium Content Picker:** Bring your documents to life! Explore 1000’s of royalty free stock images, icons and stickers
+
+### Outlook
+
+- **M365 Premium Content Picker:** Bring your documents to life! Explore 1000’s of royalty free stock images, icons and stickers
+
+### PowerPoint
+
+- **M365 Premium Content Picker:** Bring your documents to life! Explore 1000’s of royalty free stock images, icons and stickers
+
+- **Keep slides updated in slide show:** Automatically receive content updates during slide show
+
+### Word
+
+- **M365 Premium Content Picker:** Bring your documents to life! Explore 1000’s of royalty free stock images, icons and stickers
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <div>Fixed an issue where selecting a range of cells on a sheet would result in the selection of a single cell.</div>
+
+
+- <div>Fixed an issue which could cause Excel to stop responding when reducing the size of a chart with some x-axis ranges.</div>
+
+
+- <div>Fixed an issue where Data labels on charts would display as blank when the underlying data cells did not have a caption.</div>
+
+
+### Outlook
+
+- <div>Addresses an issue that caused users to experience a crash when attempting to view the properties of an Organizational Form.</div>
+
+
+- <div>Addresses an issue that caused some reminders to fail to fire when changing the timezone on a machine.</div>
+
+
+### PowerPoint
+
+- <div>We have fixed an issue when copying&nbsp;text from Excel to PowerPoint might change its formatting.&nbsp;</div>
+
+
+### Word
+
+- <div><span style="display:inline !important;">This change fixes an issue where hovering a cursor over a hint would not highlight its card.</span></div>
+
+
+- <div>This change fixes an issue that would cause the text in grouped shapes to disappear temporarily when using the Lasso selection tool.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2004: March 27
 *Version 2004 (Build 12718.20010)*
 
