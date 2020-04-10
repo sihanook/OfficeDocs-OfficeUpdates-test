@@ -23,6 +23,95 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2004: April 10
+*Version 2004 (Build 12730.20024)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Access
+
+- **Bypass the Show Table dialog box, go directly to a task pane, and streamline adding tables to relationships and queries.:** Add tables and queries by clicking four tabs, multi-selecting names, searching by text, and dragging from a task pane that stays open while you work.
+
+### Excel
+
+- **M365 Premium Content Picker:** Bring your documents to life! Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+### Outlook
+
+- **M365 Premium Content Picker:** Bring your documents to life! Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+- **Keep your pictures high fidelity when sending them as part of an email:** A new Outlook setting is available to limit picture compression when you send pictures as part of the email contents
+
+### PowerPoint
+
+- **M365 Premium Content Picker:** Bring your documents to life! Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+- **Synchronize changes while you are presenting:** Synchronize changes whenever they are made even when the presentation is in slide show mode.
+
+### Word
+
+- **M365 Premium Content Picker:** Bring your documents to life! Explore 1000’s of royalty free stock images, icons and stickers [Learn more](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+- **Annotate your private copy:** Create hand written notes for your eyes by making a private copy of a shared document. Go to View > Create a Private Copy to get started. [Learn more](https://support.office.com/article/275ea4ab-0125-48b4-b528-a20a1ae392d5)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Access
+
+- <div>Fixed issues with resizing and refreshing tables in the task pane.</div>
+
+
+### Excel
+
+- <div>Fixed an issue where inserting a user defined chart template as default would result in saving it as a column chart.</div>
+
+
+- <div>Fixed an issue where an Excel sheet with R1C1 cell referencing enabled and is being co-authored / shared, hovering over the user presence icon does not display the active cell reference in R1C1 mode.</div>
+
+
+### Outlook
+
+- <div>Addresses an issue that caused delegates to see different folder hierarchies on different machines for shared mailboxes.</div>
+
+
+- <div>Addresses an issue that caused categories to occasionally disappear from email messages.</div>
+
+
+### PowerPoint
+
+- <div>This change fixes an issue where the&nbsp;<span style="display:inline !important;">rendering of a legacy Excel chart embedded as an OLE object in PowerPoint or Word may not always display the chart title.</span></div>
+
+
+- <div><span style="font-size:12.0pt;font-family:&quot;Calibri&quot;,serif;color:black;">This change fixes an issue where finding special characters using 'find whole words only' did not always work as expected.</span><br></div>
+
+
+### Project
+
+- <div>Fixed an issue where the user couldn't enter time-phased Baseline Work when the setting to protect actual work is on.</div>
+
+
+### Word
+
+- <div>This change fixes an issue where the&nbsp;<span style="display:inline !important;">rendering of a legacy Excel chart embedded as an OLE object in PowerPoint or Word may not always display the chart title.</span></div>
+
+
+- <div>This change fixes an issue in two page view, when creating a comment, the comment anchor did not always come into view.</div>
+
+
+- <div><span style="color:rgb(0, 0, 0);">Fixed an issue where if a&nbsp;</span><font color="rgba(0, 0, 0, 0.901960784313726)"><span style="display:inline !important;color:rgb(0, 0, 0);">paragraph whose style is an ancestor of a style linked to a list, then the numbering of that list could be lost.</span></font></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2004: April 03
 *Version 2004 (Build 12725.20006)*
 
