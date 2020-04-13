@@ -22,6 +22,25 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2003: April 13
+*Version 2003 (Build 12624.20442)*
+* Various bugs and performance fixes.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Excel
+
+- **Facebook connector support is ending:** Starting in April 2020, Excel will no longer support external data connections that use the Facebook connector.
+
+### Outlook
+
+- **New option to disable @ mention suggestions when composing mail in Outlook:** Do you find the @ mention picker more annoying than useful? Now you can turn it off if you prefer.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
 ## Version 2003: March 25
 *Version 2003 (Build 12624.20320)*
 * Various bugs and performance fixes.
