@@ -22,6 +22,30 @@ These release notes provide information about security updates that are included
 > - We often roll out features (and sometimes even fixes) to Monthly over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually. [Learn more](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
+## April 14, 2020
+Monthly Channel: Version 2003 (Build 12624.20442)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### Excel
+
+-   [CVE-2020-0906](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0906)
+-   [CVE-2020-0979](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0979)
+
+### Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0980)
+
+### Office Suite
+
+-   [CVE-2020-0991](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0991)
+-   [CVE-2020-0961](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0961)
+-   [CVE-2020-0760](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0760)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 ## October 9, 2018
 Monthly Channel: Version 1809 (Build 10827.20150)  
 Semi-Annual Channel: Version 1803 (Build 9126.2295)  
