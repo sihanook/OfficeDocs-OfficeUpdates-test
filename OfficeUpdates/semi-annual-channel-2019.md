@@ -189,11 +189,6 @@ opened incrementally contains a slide with more than one embedded media stream.<
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## Version 1902: April 14
-*Version 1902 (Build 11328.20554)*
-
-Security updates listed [here](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
-
 ## Version 1808: October 10
 *Version 1808 (Build 10730.20360)*
 
