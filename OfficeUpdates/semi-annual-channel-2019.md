@@ -26,6 +26,11 @@ These release notes provide information about new features, security updates, an
 
 
 
+## Version 1902: April 14
+*Version 1902 (Build 11328.20554)*
+
+Security updates listed [here](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
 ## Version 1908: April 14
 *Version 1908 (Build 11929.20648)*
 
