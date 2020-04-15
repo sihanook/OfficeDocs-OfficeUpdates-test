@@ -28,6 +28,9 @@ These release notes provide information about new features, security updates, an
 ## Version 1908: April 15
 *Version 1908 (Build 11929.20648)*
 
+## Version 1902: April 15
+*Version 1902 (Build 11328.20554)*
+
 ## Version 1902: February 14
 *Version 1902 (Build 11328.20526)*
 
