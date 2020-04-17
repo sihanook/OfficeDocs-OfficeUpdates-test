@@ -23,6 +23,69 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2005: April 17
+*Version 2005 (Build 12810.20002)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <div>Increased the size of the cell reference edit controls on the Custom Error Bars dialog used with charts.</div>
+
+
+- <div>Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</div>
+
+
+- <div><span style="display:inline !important;">Fixed a problem with the scaling of checkboxes in form controls when printed.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Application.Evaluate (VBA) was not working for User-defined functions in some cases.</span><br></div>
+
+
+- <div>This change fixes an issue where conditional formatting (CF) information was not being saved to XLSB files correctly.</div>
+
+
+### OneNote
+
+- <div>Fixed an issue where line breaks were being stored as vertical tabs.</div>
+
+
+### Outlook
+
+- <div>Addresses an issue that caused users to be unable to add a Personal Contact Group as a Meeting attendee.</div>
+
+
+- <div>Addresses an issue that caused meetings that are more than 2 months away to fail to display a meeting subject in the Scheduling Assistant.</div>
+
+
+- <div><span style="display:inline !important;">Addresses an issue that caused users to see message body truncation when forwarding large HTML messages.</span><br></div>
+
+
+- <div>Added the ability to enforce S/MIME default signing configuration via group policy</div>
+
+
+- <div>Addresses an issue that caused delete rules created for mailboxes other than the user's primary mailbox to become invalid.</div>
+
+
+- <div>Addresses an issue that caused attachments to get dropped when forwarding an encrypted message.</div>
+
+
+### Project
+
+- <div><span style="color:rgba(0, 0, 0, 0.9);display:inline !important;">When&nbsp;</span><span style="box-sizing:border-box;color:rgba(0, 0, 0, 0.9);">Predecessor/Successor data is edited within a Form view, an extra<span>&nbsp;</span><span style="box-sizing:border-box;font-size:13.3333px;display:inline !important;">ProjectBeforeTaskChange&nbsp;</span>event i</span><span style="box-sizing:border-box;color:rgba(0, 0, 0, 0.9);">s fired</span><br></div>
+
+
+- <div>Fixed an issue where Project may crash when changing the board status field on a project that is connected to a SharePoint task list.</div>
+
+
+- <div><span style="display:inline !important;">Fixed an issue where Project may crash when saving projects created with older versions of Project.</span><br></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2004: April 10
 *Version 2004 (Build 12730.20024)*
 
