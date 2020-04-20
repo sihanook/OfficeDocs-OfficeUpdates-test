@@ -20,6 +20,30 @@ These release notes provide information about security fixes that are included i
 > - The following also provides information about security updates for Visio Pro for Office 365 and Project Online Desktop Client.
 > - This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.
 
+## April 14, 2020
+Semi-Annual Channel: Version 1908 (Build 11929.20708)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### Excel
+
+-   [CVE-2020-0906](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0906)
+-   [CVE-2020-0979](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0979)
+
+### Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0980)
+
+### Office Suite
+
+-   [CVE-2020-0991](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0991)
+-   [CVE-2020-0961](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0961)
+-   [CVE-2020-0760](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0760)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 ## January 8, 2019
 
 Monthly Channel: Version 1812 (Build 11126.20196)  
