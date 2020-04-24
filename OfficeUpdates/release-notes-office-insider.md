@@ -23,6 +23,62 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2005: April 24
+*Version 2005 (Build 12816.20006)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Outlook
+
+- **Improved links in email:** When you include a link to a file, the file name replaces the URL. You can change permissions so all recipients have access.
+
+- **File name and permission errors for links in the body of emails:** Send online attachments with ease
+and modify it's permissions right within your message.
+
+- **Friendlier link names:** When you insert a document link, only the document name will be displayed. [Learn more](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <div>This change fixes an issue where the chart trendline R-Squared value (in the forced y-intercept case) was incorrect even though the LINEST function returns the correct value.</div>
+
+
+- <div>This change fixes an issue where customized chart trendline formatting was not always being saved.</div>
+
+
+### Outlook
+
+- <div>Fixed an issue where the categorize button for group calendars in the Office Ribbon was disabled.</div>
+
+
+- <div>Fixed an issue where enterprise customers with group folders not implemented or not working, would result in Outlook displaying a &quot;not responding&quot; message.</div>
+
+
+### PowerPoint
+
+- <div>Fixed an issue where hovering over the asterisk (*) symbol did not display the user name and date of the last person to update the document.<br></div>
+
+
+### Word
+
+- <div>Enabling the option &quot;Show bookmarks&quot; would not display bookmarks. This has been fixed.</div>
+
+
+- <div>This change fixes an issue where text with hyperlinks may not display if the option: &quot;Show field codes instead of their values&quot; was enabled.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2005: April 17
 *Version 2005 (Build 12810.20002)*
 
