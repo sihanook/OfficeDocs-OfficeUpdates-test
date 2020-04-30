@@ -1,5 +1,4 @@
 
----
 title: "Release Notes Monthly Channel (Targeted"
 ms.author: anankani
 author: v-lislo
@@ -10,7 +9,6 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: "Provides Insiders Slow audience with the latest list of key new features, fixes or known issues"
----
 
 # Release Notes for Office Monthly Channel (Targeted)
 
@@ -23,7 +21,4 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
-## Version 2003: April 13
-*Version 2003 (Build 12624.20442)*
-* Various bugs and performance fixes.
 
