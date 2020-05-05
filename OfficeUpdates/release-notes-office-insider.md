@@ -116,6 +116,99 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+## Version 2005: May 04
+*Version 2005 (Build 12827.20030)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Unknown ****** Please Review ******
+
+- **:** description
+
+- **:** 
+
+- **:** 
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <div>Fixed an issue where chart data table could render values in a date axis incorrectly.</div>
+
+
+- <div>Fixed an issue where&nbsp;page breaks could not be disabled after going into Page Layout or Page Break Preview.</div>
+
+
+- <div>Inserting a column in a filtered list would take longer than expected.</div>
+
+
+- <div>Fixed an issue where chart line styles could be lost after hiding and unhiding columns with series data.</div>
+
+
+- <div>A crash could occur when trying to list changes on a new sheet for a workbook using legacy &quot;Shared Workbook&quot; mode.</div>
+
+
+- <div>Fixed an issue where custom formatting for a single data point in a Pivot chart was not saved if the &quot;Invert if negative&quot; option was selected.</div>
+
+
+- <div>Fixed the issue where custom formatting in Pivot charts may not be saved when the &quot;Invert if negative&quot; option was enabled.</div>
+
+
+- <div>This change fixes an issue where the '@' character uploaded in a CSV file, would result in the string after the '@' character to be converted to a formula.</div>
+
+
+- <div>Fixed an issue where decimal values in the SEQUENCE function were not rounded correctly.</div>
+
+
+### Outlook
+
+- <div>Addresses an issue that caused very long safelinks that users clicked on in the Outlook Desktop client to fail to load due to truncation.</div>
+
+
+- <div>Fixed an issue where Outlook folders with names containing DBCS (Double Byte Character Set) characters would intermittently disappear when synchronizing with the server. For this to happen, Outlook had to be configured with an IMAP account and running on a system with the locale set to Japanese.</div>
+
+
+### PowerPoint
+
+- <div>Fixed an issue where if a user created a comment without posting it and closed the Comments pane, then opened a new window, navigated through multiple slides and, closed the window, and finally re-opened the Comments pane in the original presentation, the draft comments would not be available.</div>
+
+
+### Project
+
+- <div><span style="display:inline !important;">Fixed an issue where if Project is connected to Project Web App and the decimal separator is a comma, TaskDependencies Add method fails when Lag is added.</span><br></div>
+
+
+### Word
+
+- <div>Fixed an issue where inserting comments on a document in collaboration mode would not always work.</div>
+
+
+- <div>This change fixes an issue where the People card would flash if the @ mention was clicked.</div>
+
+
+- <div>Fixed the issue where closing a document with draft comments would prompt the user if they wanted to close the document without saving the draft comments. Cancelling the prompt would close the document rather than leaving it open.</div>
+
+
+- <div>Fixed an issue where translating a posted comment would result in the error &quot;Inserting translated text failed'.</div>
+
+
+- <span style="display:inline !important;">In Web View/Immersive reader, clicking on a hint would scroll to the top even though it was already in view. This has been fixed.</span><br>
+
+
+- <div>We fixed an issue that, when attempting to save a file containing a macro under a new name, &nbsp;would cause it to be saved with .docx extension and the filename WRO0004.docx, regardless of what the user entered, rendering the document unusable.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2005: April 24
 *Version 2005 (Build 12816.20006)*
 
