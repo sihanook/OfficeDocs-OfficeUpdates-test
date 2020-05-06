@@ -22,6 +22,32 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2004: May 05
+*Version 2004 (Build 12730.20250)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Excel
+
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier
+
+### Outlook
+
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier
+
+### PowerPoint
+
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier [Learn more](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+
+### Word
+
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
