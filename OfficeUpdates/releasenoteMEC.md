@@ -33,6 +33,9 @@ These release notes provide information about new features and non-security upda
 
 > [!NOTE]
 > If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).
+## Version 2001: May 08
+*Version 2001 (Build 12430.20504)*
+
 ## Version 2002: May 08
 *Version 2002 (Build 12527.20470)*
 
