@@ -16,28 +16,13 @@ description: "Provides IT Pros with release notes for Monthly Enterprise Channel
 These release notes provide information about new features and non-security updates that are included in Monthly Enterprise Channel updates in 2020 for Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business, and the subscription versions of the desktop apps for Project and Visio.
 
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-<br/>
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
-
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
-
-
-
-
-> [!NOTE]
-> If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).
-
 [//]: # (DO NOT REMOVE)
 
 
-## Version 2001: May 08
-*Version 2001 (Build 12430.20504)*
-* Various bugs and performance fixes.
+
+
+[//]: # (DO NOT REMOVE END)
+
+> [!NOTE]
+> If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).
 
