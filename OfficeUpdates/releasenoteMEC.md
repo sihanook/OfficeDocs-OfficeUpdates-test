@@ -191,6 +191,155 @@ Security updates listed [here](https://docs.microsoft.com/officeupdates/microsof
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+## Version 2002: May 12
+*Version 2002 (Build 12527.20612)*
+
+Security updates listed [here](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### ECO
+
+- <div><span style="display:inline !important;">This update fixes an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span><br></div>
+
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">This update fixes an issue in Microsoft Office where Visual Basic for Applications projects with references that are expected to be found by searching locations specified in the PATH environment variable may not be found properly at runtime, leading to VBA runtime errors.</span><br></span></div>
+
+
+### Excel
+
+- <div>Using a Range.Value and Range.Value2 (VBA) would cause formulas to be entered as dynamic arrays.</div>
+
+
+- <div><span style="display:inline !important;">Opening a workbook with references to numerous other workbooks, especially with hidden windows, would be slower than expected.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Workbooks saved with a digital signature in Excel 2016 could have the signature invalidated upon opening in the current version of Excel.</span><br></div>
+
+
+- <div>Addresses an issue where the &quot;Value Crosses At&quot; property on chart axis unexpectedly changes when saving and re-opening a file.</div>
+
+
+- <div>Opening CSV files was taking longer than expected in some circumstances.</div>
+
+
+- <div>Excel may crash in some circumstances when switching between workbooks with different zoom levels.</div>
+
+
+- <div><span style="display:inline !important;">Fixed an issue with VBA in which writing values to a range would be slower than expected.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Data copied from a column filtered by color sometimes would not paste properly.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Opening a workbook with references to numerous other workbooks, especially with hidden windows, would be slower than expected.</span><br></div>
+
+
+- <div>Fixed an issue which would cause Excel to crash in some cases after copying a sheet containing a PivotTable.</div>
+
+
+### LSXOXO
+
+- <div><p style="margin:0in 0in 8pt;font-family:Calibri, sans-serif;font-size:11pt;"><span style="background:white;color:black;font-family:&quot;Segoe UI&quot;,sans-serif;font-size:10.5pt;">Localises the notification that allows the user to learn more about temporary measures being enacted in the OneNote user experience to improve sync and service stability.<br></span></p></div>
+
+
+### OneNote
+
+- <div><span style="display:inline !important;">Improve sync and service stability by temporarily</span><span style="box-sizing:border-box;">&nbsp;disabling in-app video recording in OneNote 2016. Local notebooks are not impacted by this measure.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Improve sync and service stability by temporarily<span>&nbsp;reducing the maximum allowable size of new embedded attachments to 50MB in OneNote 2016. For files that exceed this limit, users will have the option of uploading the file to OneDrive and inserting a link into OneNote.</span></span><br></div>
+
+
+- <div><span style="display:inline !important;">Improve sync and service stability by temporarily<span>&nbsp;adjusting sync frequency in OneNote 2016.</span></span><br></div>
+
+
+- <div><span style="font-family:&quot;Segoe UI&quot;, sans-serif;display:inline !important;">Improve sync and service stability by temporarily deferring the downloading of embedded files and images in online notebooks until the user navigates to the page in OneNote 2016.</span><br></div>
+
+
+- <div><p style="margin:0in 0in 8pt;font-size:11pt;font-family:Calibri, sans-serif;"><span style="font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;background:white;">Display a notification that
+allows the user to learn more about temporary measures being enacted in the
+OneNote user experience to improve sync and service stability.</span></p></div>
+
+
+- <p style="margin:0in 0in 8pt;font-size:11pt;font-family:Calibri, sans-serif;"><span style="font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;background:white;">Improve sync and service
+stability by temporarily</span><span style="box-sizing:border-box;">&nbsp;reducing the number and sync frequency of version history pages in
+OneNote 2016.</span></p>
+
+
+- <div><p style="margin:0in 0in 8pt;font-size:11pt;font-family:Calibri, sans-serif;"><span style="font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;background:white;">Improve sync and service
+stability by temporarily</span><span style="box-sizing:border-box;">&nbsp;disabling the recycle bin in OneNote 2016. When a user tries to
+delete data that would normally be sent to the recycle bin, users will be asked
+if they would prefer to keep or permanently delete the data.</span></p></div>
+
+
+### Outlook
+
+- <div>Addresses an issue that caused users to see message body truncation when forwarding large HTML messages.</div>
+
+
+- <div>Addresses an issue that caused users to experience a crash when trying to open .msg and .oft files after a Windows update.</div>
+
+
+- <span style="display:inline !important;">Addresses an issue that caused the width of the folder pane to change unexpectedly.</span>
+
+
+### PowerPoint
+
+- <div>Fixes an issue to relay correct messaging for users who open a copy of a file that has improved comments.</div>
+
+
+### Security
+
+- <div><div style="margin:0px 0in 0.000133333px;font-size:11pt;font-family:Calibri, sans-serif;"><span style="font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;background:white;"></span><span style="font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;background:white;">“This update fixes a problem in Microsoft Word where text longer
+than 255 characters inserted while applying a sensitivity label could not
+subsequently be identified and removed by changing or removing the label if the
+label policy applied a header or footer or watermark.</span><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black;background:white;">”</span></div></div>
+
+
+- <div>&quot;This update fixes an issue with Microsoft Outlook not displaying the current sensitivity label when viewing or composing messages.&quot;</div>
+
+
+### TEL
+
+- <div>This bug updates the <span style="display:inline !important;">enhanced configuration&nbsp;</span>service (ECS) url endpoint. Calling this newer endpoint has a higher success rate for fetching from ECS.</div>
+
+
+- <div><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;">This bug fix eliminates crashes during Office
+handoff sessions, thereby improving reliability in the user experience. Additionally, it improves the diagnostic data for helping us identify and fix such reliability issues.</p></div>
+
+
+### Word
+
+- <div><span style="display:inline !important;">We fixed an issue when merging 2 documents into one document.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Fixed an issue with Compare feature for<span>&nbsp;</span></span><span style="box-sizing:border-box;font-size:13.33px;display:inline !important;">documents that were protected for editing.</span><br></div>
+
+
+- <div style="box-sizing:border-box;margin:0px;color:rgba(0, 0, 0, 0.9);"><div style="box-sizing:border-box;font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;">Resolved the issue where Access and Publisher might not boot correctly depending on which languages were installed.&nbsp;</div><br></div><br>
+
+
+### Office Suite
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#201F1E;background:white;">Fixed
+an issue while opening files from on-prem locations with some specific proxy configurations.</span><br></div>
+
+
+- <div><span style="font-size:10.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;background:white;">This change ensures Sketched outline works properly in the ribbon.</span></div>
+
+
+- <div><div style="box-sizing:border-box;font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;">Hi - We have resolved the issue where an internal operation was throwing an exception on failure instead of logging and continuing on. The affected users will not be blocked from receiving updates anymore.&nbsp;</div><div style="box-sizing:border-box;font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;"><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;margin-left:.5in;"><br></p></div><div style="box-sizing:border-box;font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;">Thanks,</div><div style="box-sizing:border-box;font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;">Office Deployment Engineering</div></div>
+
+
+- <div>This is a fix to address that Project app should not block network when the file is cached in the client.</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2002: May 11
 *Version 2002 (Build 12527.20470)*
 
