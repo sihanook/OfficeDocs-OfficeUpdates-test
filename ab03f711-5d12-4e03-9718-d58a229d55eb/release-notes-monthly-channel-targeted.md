@@ -22,6 +22,55 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2004: May 11
+*Version 2004 (Build 12730.20270)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Excel
+
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier
+
+- **Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.
+
+### Outlook
+
+- **Improved links in email:** When you include a link to a file, the file name replaces the URL. You can change permissions so all recipients have access. [Learn more](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />See details in [blog post](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier
+
+### PowerPoint
+
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier [Learn more](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+
+- **No need for a clicker: your earbuds have you covered:** Use your Surface Earbuds to control your PowerPoint presentations. [Learn more](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+- **Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.
+
+### Word
+
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier
+
+- **Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Outlook
+
+- <div>Addresses an issue that caused users to experience a crash when displaying toast notifications.&nbsp;</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
