@@ -23,6 +23,61 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2006: May 15
+*Version 2006 (Build 12905.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Unknown ****** Please Review ******
+
+- **:** description
+
+- **:** 
+
+- **:** 
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### ECO
+
+- <div><span style="display:inline !important;">We fixed an issue in Visual Basic for Applications in Microsoft Office where certain VBA projects that contain references to code libraries with DBCS characters in the library name or library path would be viewed by the Office application as corrupt on load.</span><br></div><div><span style="display:inline !important;"><br></span></div><div><i><span style="display:inline !important;">DBCS stands for&nbsp;</span><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;">double-byte character set, yes?</span></i></div><div><br></div>
+
+
+### Excel
+
+- <div style="box-sizing:border-box;font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;"><span lang=EN-US style="margin:0px;font-size:11pt;text-align:left;font-family:&quot;Segoe UI&quot;, &quot;Segoe UI_EmbeddedFont&quot;, &quot;Segoe UI_MSFontService&quot;, sans-serif;"><span style="margin:0px;">We fixed an issue that resulted in improved performance time for users when they deleted&nbsp;merged columns.</span></span><span style="margin:0px;font-size:11pt;text-align:left;font-family:&quot;Segoe UI&quot;, &quot;Segoe UI_EmbeddedFont&quot;, &quot;Segoe UI_MSFontService&quot;, sans-serif;">&nbsp;</span><span></span></div>
+
+
+- <div>We fixed an issue that caused printer names to be duplicated in the list of available printers.</div>
+
+
+### PowerPoint
+
+- <div><span lang=EN-US style="margin:0px;font-size:11pt;text-align:left;font-family:&quot;Segoe UI&quot;, &quot;Segoe UI_EmbeddedFont&quot;, &quot;Segoe UI_MSFontService&quot;, sans-serif;"><span style="margin:0px;">We fixed an issue where keyboard shortcuts and spell check wouldn’t function as expected when using an English Switzerland (QWERTZ) keyboard.</span></span><span style="margin:0px;font-size:11pt;text-align:left;font-family:&quot;Segoe UI&quot;, &quot;Segoe UI_EmbeddedFont&quot;, &quot;Segoe UI_MSFontService&quot;, sans-serif;">&nbsp;</span></div>
+
+
+### Word
+
+- <div><span style="display:inline !important;">We fixed an issue where adding a new comment on a blank document wouldn't do anything.</span></div>
+
+
+- <div>We fixed an issue where inserting or updating an Index in a document containing more than a hundred entries would result in the application crashing.</div>
+
+
+- <div>We fixed an issue where files with custom xml values opened extremely slowly.&nbsp;</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## Version 2006: May 08
 *Version 2006 (Build 12829.20000)*
 
