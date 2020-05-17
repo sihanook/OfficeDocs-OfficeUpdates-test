@@ -28,10 +28,12 @@ The following table lists the supported version, and the most current build numb
 
 |**Channel**|**Version**|**Build**|**Release date**|**Version supported until**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monthly  <br/> |1903 <br/> |11425.20228 <br/> | April 17, 2019 <br/> |Version 1904 is released <br/>|
-|Semi-Annual (Targeted)  <br/> |1902  <br/> |11328.20230 <br/> |  April 9, 2019 <br/> | September 10, 2019 <br/>|
-|Semi-Annual <br/> |1808  <br/> | 10730.20334<br/> | April 9, 2019  <br/> |  March 10, 2020 <br/>|
-|Semi-Annual <br/> |1803  <br/> | 9126.2382  <br/> | April 9, 2019  <br/> |  September 10, 2019 <br/>|
+|Monthly<br/>|2004<br/>|12730.20270<br/>|May 12, 2020<br/>|Version 2005 is released<br/>|
+|Monthly Enterprise<br/>|2003<br/>|12624.20588<br/>|May 12, 2020<br/>|July 14, 2020<br/>|
+|Monthly Enterprise<br/>|2002<br/>|12527.20612<br/>|May 12, 2020<br/>|June 9, 2020<br/>|
+|Semi-Annual (Targeted)<br/>|2002<br/>|12527.20612<br/>|May 12, 2020<br/>|September 8, 2020<br/>|
+|Semi-Annual<br/>|1908<br/>|11929.20776<br/>|May 12, 2020<br/>|March 9, 2021<br/>|
+|Semi-Annual<br/>|1902<br/>|11328.20586<br/>|May 12, 2020<br/>|September 8, 2020<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -44,6 +46,7 @@ The following table provides a list of the version and build numbers for each up
 
 |**Year**|**Release date**|**Monthly Channel**|**Monthly Enterprise Channel**|**Semi-Annual Channel (Targeted)**|**Semi-Annual Channel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|May 17|[Version 2004 (Build 12730.20270)](monthly-channel-2020.md#version-2004-may-17)| | | |
 |2019|April 16 |[Version 1903 (Build 11425.20218)](monthly-channel-2019.md#version-1903-april-16)| | | |
 |2019|April 9 |[Version 1903 (Build 11425.20204)](monthly-channel-2019.md#version-1903-april-9)| |[Version 1902 (Build 11328.20230)](semi-annual-channel-targeted-2019.md#version-1903-april-9) |[Version 1808 (Build 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [Version 1803 (Build 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
 |2019|April 1 |[Version 1903 (Build 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | | |
