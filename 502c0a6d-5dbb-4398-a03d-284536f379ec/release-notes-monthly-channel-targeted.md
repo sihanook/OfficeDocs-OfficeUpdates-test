@@ -22,6 +22,20 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2005: May 19
+*Version 2005 (Build 12827.20160)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Excel
+
+- **Get Organization Data from Power BI using Excel Data Types:** You can insert data from your Organization using Excel Data Types. Convert a cell in your workbook and get additional information, and refresh the data anytime you need!
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
