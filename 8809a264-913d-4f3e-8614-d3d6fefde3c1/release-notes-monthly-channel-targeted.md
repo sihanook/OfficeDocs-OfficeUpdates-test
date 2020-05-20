@@ -22,6 +22,38 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2005: May 19
+*Version 2005 (Build 12827.20160)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Excel
+
+- **Get Organization Data from Power BI using Excel Data Types:** You can insert data from your Organization using Excel Data Types. Convert a cell in your workbook and get additional information, and refresh the data anytime you need!
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Excel
+
+- <div><span style="font-family:Calibri, Helvetica, sans-serif;font-size:14.67px;display:inline !important;">Fixed an issue where Excel could become unresponsive after using Ctrl+Shift+Arrow keys to scroll when the Excel window is shared through Teams.</span></div>
+
+
+### Outlook
+
+- <span style="display:inline !important;">Addresses an issue that caused users to experience a crash when submitting feedback from an Admin Notification.</span>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
