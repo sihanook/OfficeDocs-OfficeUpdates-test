@@ -22,6 +22,204 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2006: May 20
+*Version 2006 (Build 12914.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Unknown ****** Please Review ******
+
+- **New Office app icons:** Redesigned app icons to reflect the simple, powerful, and intelligent experiences of Office
+
+### Access
+
+- **Be more productive working in Query Designer, SQL view, and the Relationships window:** Right-click a table to open, design, size, and hide it. Search and replace text in SQL View. Select multiple tables in the Relationships window.
+
+- **Add tables with fewer clicks:** Use the Add Tables task pane, which stays open while you work, to add tables to relationships and queries. [Learn more](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+
+### Excel
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save. [Learn more](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />See details in [blog post](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.<br />See details in [blog post](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
+
+- **Apply sensitivity labels to your documents and emails:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.  [Learn more](https://aka.ms/officemipdocs)
+
+- **Bring the context along with your SVG objects!:** Now you can retain the text in maps, chart and other SVG vectors when converting these objects in Office.
+
+- **Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere. [Learn more](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Read and reply on the fly:** Respond to comments and mentions right from email without opening the workbook.
+
+- **Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.<br />See details in [blog post](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
+
+- **New images to bring your workbooks to life:** Thousands of royalty-free stock images, icons, and stickers you can use in your workbooks. Go to Insert > Pictures > Stock Images to get started. [Learn more](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />See details in [blog post](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier
+
+- **Make a PDF connection:** Connect to, import, refresh data from a PDF. [Learn more](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
+
+- **Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want. And when you're selecting, the Insert button tells you how many you've picked. [Learn more](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br />See details in [blog post](https://blog-insider.office.com/2019/08/13/feedback-in-action-icon-search/)
+
+- **Data Profiling in Query Editor:** Get at-a-glance analysis of the data in your columns, identify error and empty values, see distribution histograms and more. [Learn more](https://support.office.com/article/79616636-43aa-428f-b14b-f9c5c060f6b2)
+
+- **Code quickly with Power Query enhancements:** Get to code completion quickly with auto-complete and syntax coloring. Easily discover functions, columns, and parameters, too.
+
+- **Data visualizer add-in:** Quickly create Visio flowcharts from Excel. [Learn more](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+- **Collaboration just got easier:** Co-authoring improvements mean that when working with conditional formatting, cell styles, and more, your changes are merged seamlessly with those of your collaborators.
+
+- **Join tables on similar columns:** Get & Transform (Power Query) now features approximate text matching logic (also called fuzzy matching) when comparing columns for merging tables. [Learn more](https://support.office.com/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+
+### Outlook
+
+- **Apply sensitivity labels to your documents and emails:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.  [Learn more](https://aka.ms/officemipdocs)
+
+- **Advanced protection against attack:** With Office 365 Advanced Threat Protection, you're protected against attacks through hyperlinks within email subjects, attached messages, signed messages, network paths, and so on.
+
+- **Advanced group email settings:** This feature helps groups users to customize which emails or events to receive/follow in their inbox.
+
+- **Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content<br />See details in [blog post](https://blog-insider.office.com/2019/11/07/accessible-email-made-easier/)
+
+- **Drag email to a group you own:** Move and copy messages and conversations by dragging them from your inbox. Messages you drag will be shared with all group members.<br />See details in [blog post](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)
+
+- **User can now save objects in Word/XL/Outlook as a picture for Windows.:** With the ability already seen in PowerPoint, users can now save objects in W/X/O as a picture. Objects include shapes, icons, pictures, and more! This can be accessed through the right-click menu.
+
+- **Calendar gets a makeover:** See visual updates that make your calendar easier to scan. [Learn more](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />See details in [blog post](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
+
+- **New experience for captive wifi networks:** Have you ever joined a wifi network that required a web page to sign in with? Outlook now detects this and helps you get connected.
+
+- **Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.<br />See details in [blog post](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
+
+- **New images to bring your messages to life:** Thousands of royalty-free stock images, icons, and stickers you can use in your email messages. Go to Insert > Pictures > Stock Images to get started. [Learn more](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />See details in [blog post](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+
+- **Groups Naming policy:** A group naming policy enables the IT admin to standardize and manage the names of groups created by users in the organization. The admin can require a specific prefix and suffix be added to the name for a group when it's created, and can block specific words from being used. This helps minimize the use of inappropriate words in group names as well as IT manage the representation of groups in their directory. Naming Policy also helps organizations that deploy team sites to categorize them based on department.
+
+- **Incident Notification for IT Admins:** Microsoft 365 tenant global administrators and Office Apps Administrators will be notified about Outlook and O365 Exchange incidents affecting their users with a new right-side panel notification in Outlook for Windows. [Learn more](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **Help protect data in your group:** The Sensitivity label you choose when creating a group is applied to group email, documents, and team sites
+
+- **New option to disable @ mention suggestions when composing mail in Outlook:** Do you find the @ mention picker more annoying than useful? Now you can turn it off if you prefer.<br />See details in [blog post](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)
+
+- **Keep your pictures high fidelity when sending them as part of an email:** A new Outlook setting is available to limit picture compression when you send pictures as part of the email contents
+
+- **Improved links in email:** When you include a link to a file, the file name replaces the URL. You can change permissions so all recipients have access. [Learn more](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />See details in [blog post](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+
+- **Better results—in a jiffy:** We've updated the Search experience to make it smarter, faster, and more reliable than ever. [Learn more](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier
+
+- **Pick where to search:** The new search scope drop down allows you to modify your search and switch more easily between Current Folder and Current Mailbox. Thanks to the feedback we got for Search in Coming Soon, that we could make this change.
+
+- **Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want. And when you're selecting, the Insert button tells you how many you've picked. [Learn more](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br />See details in [blog post](https://blog-insider.office.com/2019/08/13/feedback-in-action-icon-search/)
+
+### PowerPoint
+
+- **Print slide numbers on handouts:** Slide numbers are included on your handouts automatically. Leave them on, turn them off, it's all up to you. [Learn more](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save.<br />See details in [blog post](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.<br />See details in [blog post](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
+
+- **Apply sensitivity labels to your documents and emails:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.  [Learn more](https://aka.ms/officemipdocs)
+
+- **Save an illustration as SVG:** Save a chart, shape, or other illustration as a scalable vector graphic, which can be resized with no loss of image quality. [Learn more](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Bring the context along with your SVG objects!:** Now you can retain the text in maps, chart and other SVG vectors when converting these objects in Office.
+
+- **Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.<br />See details in [blog post](https://blog-insider.office.com/2019/10/15/reach-more-people-by-making-your-powerpoint-slides-work-with-a-screen-reader/)
+
+- **Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.<br />See details in [blog post](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
+
+- **New images to bring your slides to life:** Thousands of royalty-free stock images, icons, and stickers you can use in your presentations. Go to Insert > Pictures > Stock Images to get started. [Learn more](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />See details in [blog post](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+
+- **Synchronize changes while you are presenting:** Synchronize changes whenever they are made even when the presentation is in slide show mode. [Learn more](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />See details in [blog post](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
+
+- **No need for a clicker: your earbuds have you covered:** Use your Surface Earbuds to control your PowerPoint presentations. 
+
+How it works
+
+Once paired, you'll need to enable the feature in PowerPoint. 
+
+Start a presentation by pressing F5 or selecting Slide Show > From Beginning.
+
+In Slide Show, right click on the slide and under Surface Earbuds Settings choose Use Gestures to Control Presentation.  This setting will be remembered for all future presentations.
+
+You can now can swipe forward and backward on the left earbud to navigate your presentations in Slide Show mode.  Double tap to play or pause embedded videos.
+
+Learn more: https://support.office.com/en-us/article/use-the-surface-earbuds-in-your-presentation-6319a6f3-ad69-44e6-a8ff-e79676423e4a?ui=en-US&rs=en-US&ad=US 
+
+Important: You must pair your Surface Earbuds in the Surface Audio app for Windows 10 in order to use gestures to control presentations. Instructions for getting started with the Surface Audio app on Windows 10 are available here. [Learn more](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier [Learn more](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+
+- **Better diagrams:** With better connectors and a smoother ink conversion process you can ink your ideas more confidently. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+- **Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want. And when you're selecting, the Insert button tells you how many you've picked. [Learn more](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br />See details in [blog post](https://blog-insider.office.com/2019/08/13/feedback-in-action-icon-search/)
+
+### Security
+
+- **Sensitivity labels:** You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions.
+
+### Visio
+
+- **Export Visio visuals from Power BI:** Visio Visual for Power BI will now display properly when you export Power BI reports as PDFs, PowerPoint files, and more. [Learn more](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+- **Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart by putting data on a worksheet. [Learn more](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### Word
+
+- **Create more accessible PDFs:** Create a PDF and the accessibility checker will point out accessibility issues to fix before you save. [Learn more](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />See details in [blog post](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
+
+- **Convert files to improve accessibility:** Upgrade your files to the modern format to make them more accessible for everyone.<br />See details in [blog post](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
+
+- **Say it another way:** When you want to say it differently, Rewrite is there to help. Rewrite offers alternatives for finessing your phrases.<br />See details in [blog post](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)
+
+- **Apply sensitivity labels to your documents and emails:** Apply sensitivity labels to your files and emails to keep them compliant with your organization's information protection policies.  [Learn more](https://aka.ms/officemipdocs)
+
+- **Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.
+
+- **Coauthoring improvements:** Improved the coauthoring experience by making it more likely that content changes will be received by others in real time.
+
+- **Others see your changes quickly:** Co-authoring improvements mean your collaborators can see your changes faster than ever before.
+
+- **A more secure video experience:** Security enhancements mean a safer online video experience for you. [Learn more](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+
+- **Lasso your ink:** The Lasso tool on the Draw tab helps you select objects drawn with ink. Select individual strokes, or whole words. [Learn more](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere. [Learn more](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Keep your tools handy:** In your drawing toolbox, find the intelligent pen that allows you to add ink gestures to text. [Learn more](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)<br />See details in [blog post](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)
+
+- **Pick the perfect color:** Use hex color codes to choose exactly the color you want for your font, text highlight, and more.<br />See details in [blog post](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
+
+- **New images to bring your documents to life:** Thousands of royalty-free stock images, icons, and stickers you can use in your documents. Go to Insert > Pictures > Stock Images to get started. [Learn more](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />See details in [blog post](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+
+- **Auto-apply or recommend sensitivity labels:** Office can recommend or automatically apply a sensitivity label based on the sensitive content detected.
+
+- **Annotate your private copy:** Create hand written notes for your eyes by making a private copy of a shared document. Go to View > Create a Private Copy to get started. [Learn more](https://support.office.com/article/275ea4ab-0125-48b4-b528-a20a1ae392d5)<br />See details in [blog post](https://blog-insider.office.com/2020/04/09/private-annotations-in-word/)
+
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier
+
+- **Search and enjoy:** We've added Search to Insert Icons to make it easy to find the icon you want. And when you're selecting, the Insert button tells you how many you've picked. [Learn more](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br />See details in [blog post](https://blog-insider.office.com/2019/08/13/feedback-in-action-icon-search/)
+
+### Office Suite
+
+- **The Upload Center is being replaced by the Files Needing Attention experience:** The Upload Center is being replaced by the Files Needing Attention experience that will show up inside the Office applications under File > Open. This new experience is more modern, integrated, and less intrusive compared to the Upload Center.
+
+- **Tabbed Panes:** Now you can switch between multiple panes using a tab UI on the right hand side of the app. The UI will only be visible when you have 2+ panes open.<br />See details in [blog post](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
+
+- **Privacy controls:** New, updated, and improved controls for diagnostic data and connected experiences. Learn more <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json>
+
+- **Office icons have a new look:** The Office icons have been redesigned to reflect simple, powerful, and intelligent Office experiences.
+
+- **Office icons have a new look:** The Office icons have been redesigned to reflect simple, powerful, and intelligent Office experiences.
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
