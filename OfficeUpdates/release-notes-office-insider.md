@@ -23,6 +23,24 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 [//]: # (DO NOT REMOVE)
 
 
+## Version 2006: May 21
+*Version 2006 (Build 12914.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### Feature updates
+### Unknown ****** Please Review ******
+
+- **:** description
+
+- **:** 
+
+- **:** 
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
 ## Version 2006: May 15
 *Version 2006 (Build 12905.20000)*
 
