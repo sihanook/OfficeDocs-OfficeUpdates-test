@@ -22,6 +22,21 @@ This article contains release notes for Insider builds of Word, Excel, PowerPoin
 
 [//]: # (DO NOT REMOVE)
 
+## Version 2005: May 22
+*Version 2005 (Build 12827.20210)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### Resolved issues
+### Outlook
+
+- <div><span style="display:inline !important;">Addresses an issue that caused users of Windows 10 server versions to see the warning &quot;</span><span style="display:inline !important;">Antivirus status: Invalid. This version of Windows supports antivirus detection, but no antivirus was found&quot; despite having anti virus correctly installed.</span><br></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## May 24, 2019
 Version 1906 (build 11715.20002)
 
